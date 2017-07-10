@@ -1,0 +1,3212 @@
+fileFormatVersion: 2
+guid: 930be84cb4bf8844fbc77d775290c1d0
+timeCreated: 1478610869
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: cowboy_0
+    21300002: cowboy_1
+    21300004: cowboy_2
+    21300006: cowboy_3
+    21300008: cowboy_4
+    21300010: cowboy_5
+    21300012: cowboy_6
+    21300014: cowboy_7
+    21300016: cowboy_8
+    21300018: cowboy_9
+    21300020: cowboy_10
+    21300022: cowboy_11
+    21300024: cowboy_12
+    21300026: cowboy_13
+    21300028: cowboy_14
+    21300030: cowboy_15
+    21300032: cowboy_16
+    21300034: cowboy_17
+    21300036: cowboy_18
+    21300038: cowboy_19
+    21300040: cowboy_20
+    21300042: cowboy_21
+    21300044: cowboy_22
+    21300046: cowboy_23
+    21300048: cowboy_24
+    21300050: cowboy_25
+    21300052: cowboy_26
+    21300054: cowboy_27
+    21300056: cowboy_28
+    21300058: cowboy_29
+    21300060: cowboy_30
+    21300062: cowboy_31
+    21300064: cowboy_32
+    21300066: cowboy_33
+    21300068: cowboy_34
+    21300070: cowboy_35
+    21300072: cowboy_36
+    21300074: cowboy_37
+    21300076: cowboy_38
+    21300078: cowboy_39
+    21300080: cowboy_40
+    21300082: cowboy_41
+    21300084: cowboy_42
+    21300086: cowboy_43
+    21300088: cowboy_44
+    21300090: cowboy_45
+    21300092: cowboy_46
+    21300094: cowboy_47
+    21300096: cowboy_48
+    21300098: cowboy_49
+    21300100: cowboy_50
+    21300102: cowboy_51
+    21300104: cowboy_52
+    21300106: cowboy_53
+    21300108: cowboy_54
+    21300110: cowboy_55
+    21300112: cowboy_56
+    21300114: cowboy_57
+    21300116: cowboy_58
+    21300118: cowboy_59
+    21300120: cowboy_60
+    21300122: cowboy_61
+    21300124: cowboy_62
+    21300126: cowboy_63
+    21300128: cowboy_64
+    21300130: cowboy_65
+    21300132: cowboy_66
+    21300134: cowboy_67
+    21300136: cowboy_68
+    21300138: cowboy_69
+    21300140: cowboy_70
+    21300142: cowboy_71
+    21300144: cowboy_72
+    21300146: cowboy_73
+    21300148: cowboy_74
+    21300150: cowboy_75
+    21300152: cowboy_76
+    21300154: cowboy_77
+    21300156: cowboy_78
+    21300158: cowboy_79
+    21300160: cowboy_80
+    21300162: cowboy_81
+    21300164: cowboy_82
+    21300166: cowboy_83
+    21300168: cowboy_84
+    21300170: cowboy_85
+    21300172: cowboy_86
+    21300174: cowboy_87
+    21300176: cowboy_88
+    21300178: cowboy_89
+    21300180: cowboy_90
+    21300182: cowboy_91
+    21300184: cowboy_92
+    21300186: cowboy_93
+    21300188: cowboy_94
+    21300190: cowboy_95
+    21300192: cowboy_96
+    21300194: cowboy_97
+    21300196: cowboy_98
+    21300198: cowboy_99
+    21300200: cowboy_100
+    21300202: cowboy_101
+    21300204: cowboy_102
+    21300206: cowboy_103
+    21300208: cowboy_104
+    21300210: cowboy_105
+    21300212: cowboy_106
+    21300214: cowboy_107
+    21300216: cowboy_108
+    21300218: cowboy_109
+    21300220: cowboy_110
+    21300222: cowboy_111
+    21300224: cowboy_112
+    21300226: cowboy_113
+    21300228: cowboy_114
+    21300230: cowboy_115
+    21300232: cowboy_116
+    21300234: cowboy_117
+    21300236: cowboy_118
+    21300238: cowboy_119
+    21300240: cowboy_120
+    21300242: cowboy_121
+    21300244: cowboy_122
+    21300246: cowboy_123
+    21300248: cowboy_124
+    21300250: cowboy_125
+    21300252: cowboy_126
+    21300254: cowboy_127
+    21300256: cowboy_128
+    21300258: cowboy_129
+    21300260: cowboy_130
+    21300262: cowboy_131
+    21300264: cowboy_132
+    21300266: cowboy_133
+    21300268: cowboy_134
+    21300270: cowboy_135
+    21300272: cowboy_136
+    21300274: cowboy_137
+    21300276: cowboy_138
+    21300278: cowboy_139
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: cowboy_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 40}
+        - {x: -7, y: 40}
+        - {x: -13, y: 39}
+        - {x: -24, y: 25}
+        - {x: -24, y: 1}
+        - {x: -21, y: -16}
+        - {x: -9, y: -64}
+        - {x: 18, y: -64}
+        - {x: 20, y: -62}
+        - {x: 22, y: -45}
+        - {x: 22, y: 31}
+    - name: cowboy_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 38}
+        - {x: -35, y: 5}
+        - {x: -35, y: -58}
+        - {x: -33, y: -64}
+        - {x: 20, y: -64}
+        - {x: 25, y: -59}
+        - {x: 36, y: -46}
+        - {x: 36, y: 38}
+    - name: cowboy_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28, y: -6}
+        - {x: 25, y: 24}
+        - {x: 7, y: 40}
+        - {x: -10, y: 40}
+        - {x: -24, y: 27}
+        - {x: -24, y: -64}
+        - {x: 21, y: -64}
+        - {x: 30, y: -23}
+        - {x: 32, y: -15}
+        - {x: 32, y: -12}
+    - name: cowboy_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 41}
+        - {x: -24, y: -43}
+        - {x: -18, y: -64}
+        - {x: 22, y: -64}
+        - {x: 38, y: -58}
+        - {x: 38, y: 35}
+        - {x: 13, y: 41}
+    - name: cowboy_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: 40}
+        - {x: -14, y: 40}
+        - {x: -24, y: 35}
+        - {x: -24, y: -28}
+        - {x: -17, y: -64}
+        - {x: 20, y: -64}
+        - {x: 53, y: -41}
+        - {x: 53, y: -5}
+        - {x: 46, y: 16}
+    - name: cowboy_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 49, y: 11}
+        - {x: 26, y: 10}
+        - {x: 21, y: 4}
+        - {x: 24, y: 22}
+        - {x: 9, y: 38}
+        - {x: -9, y: 38}
+        - {x: -24, y: 21}
+        - {x: -34, y: 7}
+        - {x: -34, y: -64}
+        - {x: 34, y: -64}
+        - {x: 53, y: -34}
+        - {x: 53, y: 12}
+        - {x: 51, y: 13}
+    - name: cowboy_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 49, y: 9}
+        - {x: 23, y: 10}
+        - {x: 19, y: 5}
+        - {x: 30, y: 18}
+        - {x: 12, y: 40}
+        - {x: -7, y: 40}
+        - {x: -24, y: 32}
+        - {x: -24, y: -64}
+        - {x: 20, y: -64}
+        - {x: 21, y: -58}
+        - {x: 51, y: -2}
+        - {x: 51, y: 3}
+    - name: cowboy_7
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 46, y: -30}
+        - {x: 46, y: -26}
+        - {x: 31, y: -8}
+        - {x: 24, y: 26}
+        - {x: 14, y: 41}
+        - {x: -24, y: 41}
+        - {x: -24, y: -57}
+        - {x: -13, y: -64}
+        - {x: 10, y: -64}
+        - {x: 10, y: -61}
+        - {x: 43, y: -37}
+        - {x: 45, y: -32}
+    - name: cowboy_8
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 40}
+        - {x: -18, y: 40}
+        - {x: -24, y: 28}
+        - {x: -24, y: -27}
+        - {x: -19, y: -64}
+        - {x: 15, y: -64}
+        - {x: 26, y: -61}
+        - {x: 35, y: -29}
+        - {x: 35, y: 6}
+        - {x: 31, y: 27}
+    - name: cowboy_9
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 40, y: -24}
+        - {x: 40, y: 13}
+        - {x: 22, y: 38}
+        - {x: -9, y: 38}
+        - {x: -24, y: 21}
+        - {x: -24, y: 19}
+        - {x: -35, y: 2}
+        - {x: -35, y: -58}
+        - {x: -33, y: -64}
+        - {x: 20, y: -64}
+        - {x: 25, y: -59}
+        - {x: 23, y: -55}
+        - {x: 22, y: -52}
+    - name: cowboy_10
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 33, y: 13}
+        - {x: 17, y: 8}
+        - {x: 18, y: 27}
+        - {x: 2, y: 39}
+        - {x: -28, y: 39}
+        - {x: -38, y: 21}
+        - {x: -38, y: -51}
+        - {x: -29, y: -56}
+        - {x: -13, y: -35}
+        - {x: -13, y: -27}
+        - {x: -16, y: -25}
+        - {x: -16, y: -20}
+        - {x: -14, y: -25}
+        - {x: -12, y: -27}
+        - {x: -13, y: -42}
+        - {x: -22, y: -48}
+        - {x: -24, y: -56}
+        - {x: -23, y: -63}
+        - {x: 4, y: -63}
+        - {x: 18, y: -61}
+        - {x: 40, y: -53}
+        - {x: 42, y: -39}
+        - {x: 42, y: 14}
+    - name: cowboy_11
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 40}
+        - {x: -48, y: 7}
+        - {x: -48, y: -45}
+        - {x: -31, y: -64}
+        - {x: 29, y: -64}
+        - {x: 64, y: 3}
+        - {x: 64, y: 21}
+        - {x: 10, y: 40}
+    - name: cowboy_12
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: 10}
+        - {x: 14, y: 11}
+        - {x: 19, y: 23}
+        - {x: 16, y: 37}
+        - {x: 12, y: 57}
+        - {x: -6, y: 57}
+        - {x: -31, y: 37}
+        - {x: -41, y: 22}
+        - {x: -41, y: 14}
+        - {x: -39, y: 10}
+        - {x: -12, y: -64}
+        - {x: 18, y: -64}
+        - {x: 21, y: -16}
+        - {x: 21, y: 7}
+    - name: cowboy_13
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 57}
+        - {x: -31, y: 37}
+        - {x: -41, y: 26}
+        - {x: -41, y: 1}
+        - {x: -12, y: -64}
+        - {x: 21, y: -64}
+        - {x: 21, y: 47}
+        - {x: 9, y: 57}
+    - name: cowboy_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 40}
+        - {x: -12, y: 40}
+        - {x: -23, y: 25}
+        - {x: -23, y: -60}
+        - {x: -18, y: -64}
+        - {x: 6, y: -64}
+        - {x: 15, y: -34}
+        - {x: 23, y: 16}
+        - {x: 23, y: 35}
+      - - {x: -5, y: 64}
+        - {x: -4, y: 61}
+        - {x: 7, y: 61}
+        - {x: 9, y: 63}
+        - {x: 9, y: 64}
+    - name: cowboy_15
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 38}
+        - {x: -36, y: 21}
+        - {x: -36, y: -64}
+        - {x: 35, y: -64}
+        - {x: 35, y: 4}
+        - {x: 22, y: 38}
+    - name: cowboy_16
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 40}
+        - {x: -35, y: 30}
+        - {x: -35, y: -48}
+        - {x: -22, y: -64}
+        - {x: 14, y: -64}
+        - {x: 20, y: -52}
+        - {x: 20, y: 34}
+        - {x: 7, y: 40}
+    - name: cowboy_17
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 41}
+        - {x: -5, y: 41}
+        - {x: -31, y: 27}
+        - {x: -39, y: -17}
+        - {x: -39, y: -64}
+        - {x: 18, y: -64}
+        - {x: 23, y: 2}
+        - {x: 23, y: 26}
+        - {x: 19, y: 29}
+    - name: cowboy_18
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 40}
+        - {x: -34, y: 29}
+        - {x: -54, y: 2}
+        - {x: -54, y: -36}
+        - {x: -9, y: -64}
+        - {x: 22, y: -64}
+        - {x: 23, y: -57}
+        - {x: 23, y: 37}
+        - {x: 16, y: 40}
+      - - {x: -6, y: 64}
+        - {x: -5, y: 61}
+        - {x: -1, y: 61}
+        - {x: 1, y: 63}
+        - {x: 1, y: 64}
+    - name: cowboy_19
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 38}
+        - {x: -24, y: 22}
+        - {x: -23, y: 18}
+        - {x: -19, y: 16}
+        - {x: -51, y: 11}
+        - {x: -54, y: 9}
+        - {x: -54, y: 2}
+        - {x: -24, y: -64}
+        - {x: 34, y: -64}
+        - {x: 34, y: 37}
+        - {x: 24, y: 38}
+    - name: cowboy_20
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 40}
+        - {x: -24, y: 25}
+        - {x: -22, y: 18}
+        - {x: -51, y: 8}
+        - {x: -51, y: -29}
+        - {x: -32, y: -64}
+        - {x: 23, y: -64}
+        - {x: 23, y: 40}
+    - name: cowboy_21
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 41}
+        - {x: -9, y: 41}
+        - {x: -37, y: 29}
+        - {x: -46, y: 2}
+        - {x: -46, y: -43}
+        - {x: -12, y: -64}
+        - {x: 17, y: -64}
+        - {x: 20, y: -61}
+        - {x: 23, y: -35}
+        - {x: 23, y: 36}
+    - name: cowboy_22
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 40}
+        - {x: -35, y: 30}
+        - {x: -35, y: -52}
+        - {x: -33, y: -64}
+        - {x: 16, y: -64}
+        - {x: 23, y: -13}
+        - {x: 23, y: 31}
+        - {x: 11, y: 40}
+      - - {x: -6, y: 64}
+        - {x: -5, y: 61}
+        - {x: -1, y: 61}
+        - {x: 1, y: 63}
+        - {x: 1, y: 64}
+    - name: cowboy_23
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34, y: 38}
+        - {x: -40, y: 31}
+        - {x: -40, y: -30}
+        - {x: -22, y: -64}
+        - {x: 35, y: -64}
+        - {x: 35, y: 38}
+    - name: cowboy_24
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: -29}
+        - {x: 14, y: -24}
+        - {x: 14, y: -21}
+        - {x: 15, y: -24}
+        - {x: 13, y: -27}
+        - {x: 13, y: -35}
+        - {x: 29, y: -57}
+        - {x: 38, y: -60}
+        - {x: 38, y: 33}
+        - {x: 26, y: 39}
+        - {x: -9, y: 39}
+        - {x: -32, y: 35}
+        - {x: -42, y: 17}
+        - {x: -42, y: -43}
+        - {x: -28, y: -63}
+        - {x: 21, y: -63}
+        - {x: 23, y: -59}
+        - {x: 23, y: -49}
+        - {x: 13, y: -43}
+    - name: cowboy_25
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 40, y: -6}
+        - {x: 33, y: -5}
+        - {x: 37, y: 17}
+        - {x: 30, y: 40}
+        - {x: -49, y: 40}
+        - {x: -64, y: 35}
+        - {x: -64, y: -18}
+        - {x: -28, y: -64}
+        - {x: 25, y: -64}
+        - {x: 48, y: -26}
+        - {x: 48, y: -9}
+      - - {x: -14, y: 64}
+        - {x: -13, y: 61}
+        - {x: -9, y: 61}
+        - {x: -7, y: 63}
+        - {x: -7, y: 64}
+      - - {x: -1, y: 64}
+        - {x: 0, y: 61}
+        - {x: 9, y: 61}
+        - {x: 11, y: 63}
+        - {x: 11, y: 64}
+    - name: cowboy_26
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 57}
+        - {x: -15, y: 56}
+        - {x: -22, y: 26}
+        - {x: -22, y: -30}
+        - {x: -14, y: -62}
+        - {x: -9, y: -64}
+        - {x: 12, y: -64}
+        - {x: 41, y: -7}
+        - {x: 41, y: 31}
+        - {x: 5, y: 57}
+      - - {x: -7, y: 64}
+        - {x: -6, y: 61}
+        - {x: 1, y: 61}
+        - {x: 3, y: 63}
+        - {x: 3, y: 64}
+    - name: cowboy_27
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 57}
+        - {x: -15, y: 56}
+        - {x: -22, y: 26}
+        - {x: -22, y: -33}
+        - {x: -15, y: -64}
+        - {x: 15, y: -64}
+        - {x: 40, y: -12}
+        - {x: 40, y: 31}
+        - {x: 7, y: 57}
+      - - {x: -7, y: 64}
+        - {x: -6, y: 61}
+        - {x: 1, y: 61}
+        - {x: 3, y: 63}
+        - {x: 3, y: 64}
+    - name: cowboy_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: 44}
+        - {x: -9, y: 44}
+        - {x: -27, y: 33}
+        - {x: -29, y: 9}
+        - {x: -29, y: -30}
+        - {x: -15, y: -60}
+        - {x: 9, y: -60}
+        - {x: 21, y: -57}
+        - {x: 24, y: -46}
+        - {x: 24, y: 39}
+      - - {x: -9, y: 64}
+        - {x: -8, y: 61}
+        - {x: 2, y: 61}
+        - {x: 4, y: 63}
+        - {x: 4, y: 64}
+    - name: cowboy_29
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 41}
+        - {x: -38, y: 21}
+        - {x: -38, y: -43}
+        - {x: -28, y: -48}
+        - {x: -17, y: -33}
+        - {x: -17, y: -25}
+        - {x: -18, y: -19}
+        - {x: -11, y: -38}
+        - {x: 1, y: -57}
+        - {x: 36, y: -57}
+        - {x: 36, y: 41}
+    - name: cowboy_30
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 43}
+        - {x: -29, y: 43}
+        - {x: -29, y: -56}
+        - {x: 15, y: -56}
+        - {x: 35, y: -31}
+        - {x: 35, y: 27}
+        - {x: 29, y: 34}
+    - name: cowboy_31
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31, y: -42}
+        - {x: 31, y: 21}
+        - {x: 20, y: 43}
+        - {x: -6, y: 43}
+        - {x: -21, y: 32}
+        - {x: -21, y: -8}
+        - {x: -20, y: -34}
+        - {x: -10, y: -54}
+        - {x: -4, y: -56}
+        - {x: 5, y: -56}
+        - {x: 6, y: -53}
+        - {x: 9, y: -56}
+        - {x: 19, y: -56}
+    - name: cowboy_32
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: -18}
+        - {x: -14, y: -53}
+        - {x: 18, y: -53}
+        - {x: 35, y: -44}
+        - {x: 35, y: 0}
+        - {x: 23, y: 36}
+        - {x: 11, y: 43}
+        - {x: -3, y: 43}
+        - {x: -20, y: 36}
+      - - {x: -2, y: 64}
+        - {x: -1, y: 61}
+        - {x: 4, y: 61}
+        - {x: 6, y: 63}
+        - {x: 6, y: 64}
+    - name: cowboy_33
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 41}
+        - {x: -11, y: 41}
+        - {x: -19, y: 35}
+        - {x: -19, y: -52}
+        - {x: 30, y: -52}
+        - {x: 39, y: -38}
+        - {x: 39, y: 17}
+        - {x: 32, y: 31}
+    - name: cowboy_34
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 44}
+        - {x: -18, y: 43}
+        - {x: -18, y: -51}
+        - {x: 24, y: -51}
+        - {x: 38, y: -36}
+        - {x: 38, y: 13}
+        - {x: 19, y: 44}
+    - name: cowboy_35
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: 45}
+        - {x: -5, y: 45}
+        - {x: -17, y: 39}
+        - {x: -17, y: -51}
+        - {x: 23, y: -51}
+        - {x: 31, y: -42}
+        - {x: 31, y: -2}
+        - {x: 27, y: 34}
+    - name: cowboy_36
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: -4}
+        - {x: -27, y: -34}
+        - {x: -25, y: -55}
+        - {x: 21, y: -55}
+        - {x: 38, y: -39}
+        - {x: 38, y: 18}
+        - {x: 30, y: 44}
+        - {x: -1, y: 44}
+        - {x: -18, y: 32}
+      - - {x: -2, y: 64}
+        - {x: -1, y: 61}
+        - {x: 3, y: 61}
+        - {x: 5, y: 63}
+        - {x: 5, y: 64}
+    - name: cowboy_37
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 41}
+        - {x: -27, y: 31}
+        - {x: -38, y: -4}
+        - {x: -38, y: -43}
+        - {x: -28, y: -48}
+        - {x: -17, y: -33}
+        - {x: -17, y: -25}
+        - {x: -18, y: -19}
+        - {x: -11, y: -38}
+        - {x: 1, y: -57}
+        - {x: 25, y: -57}
+        - {x: 41, y: -20}
+        - {x: 41, y: 22}
+        - {x: 20, y: 41}
+    - name: cowboy_38
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 31}
+        - {x: -25, y: 24}
+        - {x: -17, y: 20}
+        - {x: -43, y: -3}
+        - {x: -45, y: -7}
+        - {x: -45, y: -51}
+        - {x: -44, y: -52}
+        - {x: 38, y: -52}
+        - {x: 45, y: -46}
+        - {x: 45, y: 28}
+        - {x: 36, y: 44}
+        - {x: -8, y: 44}
+        - {x: -16, y: 39}
+    - name: cowboy_39
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 45}
+        - {x: -23, y: 44}
+        - {x: -23, y: -7}
+        - {x: -20, y: -43}
+        - {x: -2, y: -55}
+        - {x: 18, y: -55}
+        - {x: 37, y: -32}
+        - {x: 37, y: 22}
+        - {x: 15, y: 45}
+      - - {x: -12, y: 64}
+        - {x: -11, y: 61}
+        - {x: -2, y: 61}
+        - {x: 0, y: 63}
+        - {x: 0, y: 64}
+      - - {x: 7, y: 64}
+        - {x: 8, y: 61}
+        - {x: 11, y: 61}
+        - {x: 13, y: 63}
+        - {x: 13, y: 64}
+    - name: cowboy_40
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 51}
+        - {x: -16, y: 49}
+        - {x: -22, y: 42}
+        - {x: -22, y: 22}
+        - {x: -12, y: -44}
+        - {x: -8, y: -55}
+        - {x: 6, y: -55}
+        - {x: 17, y: -49}
+        - {x: 49, y: -2}
+        - {x: 49, y: 36}
+        - {x: 23, y: 51}
+      - - {x: -3, y: 64}
+        - {x: -2, y: 61}
+        - {x: 5, y: 61}
+        - {x: 7, y: 63}
+        - {x: 7, y: 64}
+    - name: cowboy_41
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 0}
+        - {x: -19, y: -55}
+        - {x: 17, y: -55}
+        - {x: 49, y: -17}
+        - {x: 49, y: 43}
+        - {x: 17, y: 51}
+        - {x: -8, y: 51}
+        - {x: -16, y: 49}
+        - {x: -22, y: 38}
+      - - {x: -3, y: 64}
+        - {x: -2, y: 61}
+        - {x: 4, y: 61}
+        - {x: 6, y: 63}
+        - {x: 6, y: 64}
+    - name: cowboy_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 44}
+        - {x: -8, y: 44}
+        - {x: -21, y: 32}
+        - {x: -21, y: -22}
+        - {x: -18, y: -38}
+        - {x: 3, y: -60}
+        - {x: 22, y: -60}
+        - {x: 24, y: -59}
+        - {x: 20, y: -34}
+        - {x: 25, y: 1}
+        - {x: 25, y: 31}
+    - name: cowboy_43
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 41}
+        - {x: -11, y: 41}
+        - {x: -30, y: 31}
+        - {x: -31, y: 21}
+        - {x: -31, y: -58}
+        - {x: 31, y: -58}
+        - {x: 38, y: -28}
+        - {x: 38, y: 16}
+        - {x: 18, y: 39}
+    - name: cowboy_44
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 43}
+        - {x: -21, y: 41}
+        - {x: -21, y: -49}
+        - {x: -10, y: -57}
+        - {x: 21, y: -57}
+        - {x: 34, y: -35}
+        - {x: 34, y: 21}
+        - {x: 17, y: 43}
+    - name: cowboy_45
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 42}
+        - {x: -21, y: 32}
+        - {x: -21, y: 20}
+        - {x: -18, y: 18}
+        - {x: -12, y: 16}
+        - {x: -12, y: -6}
+        - {x: -20, y: -53}
+        - {x: -14, y: -55}
+        - {x: 28, y: -55}
+        - {x: 40, y: -42}
+        - {x: 40, y: 28}
+        - {x: 19, y: 42}
+    - name: cowboy_46
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 43}
+        - {x: -21, y: 35}
+        - {x: -21, y: -7}
+        - {x: -15, y: -54}
+        - {x: -14, y: -55}
+        - {x: 10, y: -55}
+        - {x: 30, y: -40}
+        - {x: 55, y: -21}
+        - {x: 55, y: -8}
+        - {x: 29, y: 43}
+    - name: cowboy_47
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30, y: 41}
+        - {x: -23, y: 41}
+        - {x: -31, y: 27}
+        - {x: -31, y: -29}
+        - {x: -16, y: -54}
+        - {x: 4, y: -54}
+        - {x: 39, y: -43}
+        - {x: 55, y: 3}
+        - {x: 55, y: 25}
+    - name: cowboy_48
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 50, y: 14}
+        - {x: 25, y: 11}
+        - {x: 21, y: 5}
+        - {x: 26, y: 24}
+        - {x: 29, y: 36}
+        - {x: 9, y: 44}
+        - {x: -14, y: 44}
+        - {x: -20, y: 40}
+        - {x: -20, y: -33}
+        - {x: -18, y: -47}
+        - {x: -9, y: -53}
+        - {x: 3, y: -53}
+        - {x: 20, y: -48}
+        - {x: 52, y: -1}
+        - {x: 52, y: 14}
+    - name: cowboy_49
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 48, y: -13}
+        - {x: 28, y: 24}
+        - {x: 21, y: 38}
+        - {x: 10, y: 46}
+        - {x: -4, y: 46}
+        - {x: -20, y: 41}
+        - {x: -20, y: -33}
+        - {x: -18, y: -50}
+        - {x: 12, y: -50}
+        - {x: 14, y: -46}
+        - {x: 45, y: -30}
+        - {x: 48, y: -25}
+    - name: cowboy_50
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 44}
+        - {x: -21, y: -24}
+        - {x: -13, y: -54}
+        - {x: 28, y: -54}
+        - {x: 37, y: -23}
+        - {x: 37, y: 19}
+        - {x: 17, y: 44}
+    - name: cowboy_51
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23, y: 18}
+        - {x: 20, y: 15}
+        - {x: 19, y: 15}
+        - {x: 26, y: 20}
+        - {x: 30, y: 30}
+        - {x: 21, y: 41}
+        - {x: -26, y: 41}
+        - {x: -31, y: 30}
+        - {x: -31, y: -56}
+        - {x: -28, y: -58}
+        - {x: 32, y: -58}
+        - {x: 42, y: -16}
+        - {x: 42, y: 11}
+        - {x: 36, y: 20}
+    - name: cowboy_52
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 42}
+        - {x: -31, y: 15}
+        - {x: -35, y: 1}
+        - {x: -35, y: -56}
+        - {x: 44, y: -56}
+        - {x: 44, y: 29}
+        - {x: 10, y: 42}
+    - name: cowboy_53
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 43}
+        - {x: -14, y: 43}
+        - {x: -28, y: 29}
+        - {x: -27, y: 23}
+        - {x: -24, y: 18}
+        - {x: -26, y: 19}
+        - {x: -35, y: 18}
+        - {x: -44, y: 15}
+        - {x: -44, y: -2}
+        - {x: -43, y: -4}
+        - {x: -13, y: -54}
+        - {x: 14, y: -54}
+        - {x: 17, y: -52}
+        - {x: 64, y: -9}
+        - {x: 64, y: 23}
+    - name: cowboy_54
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 48}
+        - {x: -22, y: 48}
+        - {x: -37, y: 33}
+        - {x: -37, y: 22}
+        - {x: -36, y: 21}
+        - {x: -10, y: -46}
+        - {x: 0, y: -54}
+        - {x: 14, y: -54}
+        - {x: 20, y: -50}
+        - {x: 19, y: -31}
+        - {x: 24, y: -8}
+        - {x: 24, y: 40}
+    - name: cowboy_55
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 48}
+        - {x: -37, y: 33}
+        - {x: -37, y: -7}
+        - {x: -6, y: -54}
+        - {x: 17, y: -54}
+        - {x: 24, y: -40}
+        - {x: 24, y: 38}
+        - {x: 11, y: 48}
+    - name: cowboy_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 44}
+        - {x: -14, y: 44}
+        - {x: -23, y: 40}
+        - {x: -23, y: -54}
+        - {x: 39, y: -54}
+        - {x: 39, y: -12}
+        - {x: 25, y: 31}
+    - name: cowboy_57
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 41}
+        - {x: -19, y: 40}
+        - {x: -19, y: -55}
+        - {x: -4, y: -63}
+        - {x: 8, y: -63}
+        - {x: 25, y: -45}
+        - {x: 25, y: 34}
+        - {x: 19, y: 41}
+    - name: cowboy_58
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 43}
+        - {x: -18, y: 36}
+        - {x: -18, y: -46}
+        - {x: -9, y: -53}
+        - {x: 23, y: -53}
+        - {x: 26, y: -43}
+        - {x: 26, y: 33}
+        - {x: 9, y: 43}
+    - name: cowboy_59
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 43}
+        - {x: -6, y: 43}
+        - {x: -16, y: 34}
+        - {x: -16, y: -53}
+        - {x: -8, y: -54}
+        - {x: 19, y: -54}
+        - {x: 39, y: -32}
+        - {x: 39, y: 7}
+        - {x: 31, y: 30}
+    - name: cowboy_60
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28, y: 7}
+        - {x: 25, y: 31}
+        - {x: 14, y: 43}
+        - {x: -8, y: 43}
+        - {x: -25, y: 33}
+        - {x: -25, y: -35}
+        - {x: -16, y: -55}
+        - {x: 19, y: -55}
+        - {x: 46, y: -7}
+        - {x: 46, y: 10}
+        - {x: 35, y: 13}
+    - name: cowboy_61
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 41}
+        - {x: -3, y: 41}
+        - {x: -15, y: 39}
+        - {x: -21, y: 22}
+        - {x: -37, y: -11}
+        - {x: -37, y: -33}
+        - {x: -10, y: -57}
+        - {x: 14, y: -57}
+        - {x: 42, y: -17}
+        - {x: 42, y: 28}
+        - {x: 41, y: 38}
+    - name: cowboy_62
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 44}
+        - {x: -25, y: 33}
+        - {x: -25, y: -39}
+        - {x: -5, y: -56}
+        - {x: 10, y: -56}
+        - {x: 40, y: -20}
+        - {x: 40, y: 28}
+        - {x: 37, y: 44}
+    - name: cowboy_63
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: 45}
+        - {x: -21, y: 45}
+        - {x: -21, y: -20}
+        - {x: -13, y: -53}
+        - {x: 5, y: -53}
+        - {x: 40, y: -17}
+        - {x: 40, y: 18}
+        - {x: 31, y: 40}
+    - name: cowboy_64
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 44}
+        - {x: -9, y: 44}
+        - {x: -20, y: 36}
+        - {x: -20, y: -16}
+        - {x: -16, y: -49}
+        - {x: -5, y: -54}
+        - {x: 18, y: -54}
+        - {x: 29, y: -48}
+        - {x: 29, y: 6}
+        - {x: 21, y: 36}
+    - name: cowboy_65
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 41}
+        - {x: -9, y: 41}
+        - {x: -19, y: 34}
+        - {x: -19, y: -55}
+        - {x: -4, y: -63}
+        - {x: 8, y: -63}
+        - {x: 25, y: -44}
+        - {x: 25, y: 28}
+        - {x: 21, y: 32}
+    - name: cowboy_66
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 39}
+        - {x: -23, y: -62}
+        - {x: 12, y: -62}
+        - {x: 28, y: -34}
+        - {x: 28, y: 2}
+        - {x: 19, y: 39}
+    - name: cowboy_67
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 62, y: 27}
+        - {x: 62, y: 31}
+        - {x: 60, y: 38}
+        - {x: 51, y: 41}
+        - {x: -46, y: 41}
+        - {x: -54, y: 37}
+        - {x: -54, y: -42}
+        - {x: -45, y: -54}
+        - {x: 13, y: -54}
+        - {x: 23, y: -22}
+        - {x: 20, y: -10}
+        - {x: 42, y: -4}
+    - name: cowboy_68
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 51}
+        - {x: 9, y: 46}
+        - {x: 3, y: 29}
+        - {x: 3, y: 22}
+        - {x: 3, y: 30}
+        - {x: -6, y: 46}
+        - {x: -41, y: 39}
+        - {x: -41, y: 2}
+        - {x: -15, y: -49}
+        - {x: -10, y: -51}
+        - {x: 19, y: -51}
+        - {x: 29, y: -44}
+        - {x: 29, y: 51}
+    - name: cowboy_69
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20, y: 51}
+        - {x: 12, y: 51}
+        - {x: 9, y: 46}
+        - {x: 3, y: 29}
+        - {x: 3, y: 22}
+        - {x: 3, y: 30}
+        - {x: -6, y: 46}
+        - {x: -41, y: 39}
+        - {x: -41, y: 2}
+        - {x: -15, y: -49}
+        - {x: -10, y: -51}
+        - {x: 27, y: -51}
+        - {x: 29, y: -35}
+        - {x: 29, y: 26}
+    - name: cowboy_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 39, y: 26}
+        - {x: 23, y: 43}
+        - {x: -25, y: 43}
+        - {x: -26, y: 40}
+        - {x: -26, y: -40}
+        - {x: -6, y: -52}
+        - {x: 39, y: -52}
+    - name: cowboy_71
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 40}
+        - {x: -16, y: 38}
+        - {x: -20, y: 27}
+        - {x: -20, y: -12}
+        - {x: -9, y: -58}
+        - {x: -7, y: -58}
+        - {x: -2, y: -56}
+        - {x: 0, y: -54}
+        - {x: 15, y: -58}
+        - {x: 31, y: -58}
+        - {x: 31, y: 36}
+        - {x: 18, y: 40}
+    - name: cowboy_72
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 43}
+        - {x: -5, y: 43}
+        - {x: -19, y: 33}
+        - {x: -17, y: 28}
+        - {x: -21, y: 11}
+        - {x: -21, y: -6}
+        - {x: -10, y: -55}
+        - {x: 32, y: -55}
+        - {x: 32, y: 33}
+        - {x: 11, y: 42}
+    - name: cowboy_73
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: -52}
+        - {x: 30, y: -37}
+        - {x: 30, y: 22}
+        - {x: 24, y: 43}
+        - {x: -17, y: 43}
+        - {x: -24, y: 28}
+        - {x: -24, y: -23}
+        - {x: -15, y: -52}
+        - {x: -2, y: -52}
+        - {x: 0, y: -48}
+        - {x: 4, y: -50}
+        - {x: 10, y: -52}
+    - name: cowboy_74
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 42}
+        - {x: -20, y: 39}
+        - {x: -26, y: 15}
+        - {x: -26, y: -38}
+        - {x: -17, y: -33}
+        - {x: -13, y: -29}
+        - {x: -13, y: -23}
+        - {x: -13, y: -30}
+        - {x: -15, y: -35}
+        - {x: -8, y: -54}
+        - {x: -7, y: -54}
+        - {x: -3, y: -52}
+        - {x: 0, y: -49}
+        - {x: 3, y: -54}
+        - {x: 13, y: -54}
+        - {x: 14, y: -53}
+        - {x: 29, y: -32}
+        - {x: 29, y: 23}
+        - {x: 21, y: 42}
+    - name: cowboy_75
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 40}
+        - {x: -26, y: 24}
+        - {x: -26, y: -45}
+        - {x: -8, y: -48}
+        - {x: -1, y: -41}
+        - {x: 4, y: -55}
+        - {x: 5, y: -56}
+        - {x: 16, y: -56}
+        - {x: 26, y: -20}
+        - {x: 26, y: 36}
+        - {x: 15, y: 40}
+    - name: cowboy_76
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 43}
+        - {x: -21, y: 32}
+        - {x: -25, y: 7}
+        - {x: -25, y: -36}
+        - {x: 0, y: -55}
+        - {x: 15, y: -55}
+        - {x: 16, y: -54}
+        - {x: 27, y: -12}
+        - {x: 27, y: 21}
+        - {x: 19, y: 43}
+    - name: cowboy_77
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 43}
+        - {x: -23, y: -40}
+        - {x: -11, y: -49}
+        - {x: -4, y: -52}
+        - {x: -2, y: -52}
+        - {x: 0, y: -48}
+        - {x: 4, y: -52}
+        - {x: 12, y: -52}
+        - {x: 14, y: -51}
+        - {x: 30, y: -24}
+        - {x: 30, y: 10}
+        - {x: 20, y: 43}
+    - name: cowboy_78
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 43}
+        - {x: -8, y: 43}
+        - {x: -22, y: 35}
+        - {x: -22, y: -7}
+        - {x: -15, y: -32}
+        - {x: -9, y: -54}
+        - {x: 12, y: -54}
+        - {x: 32, y: -31}
+        - {x: 32, y: -7}
+        - {x: 23, y: 35}
+    - name: cowboy_79
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 40}
+        - {x: -20, y: 35}
+        - {x: -20, y: -14}
+        - {x: -10, y: -55}
+        - {x: -7, y: -56}
+        - {x: -2, y: -56}
+        - {x: 0, y: -54}
+        - {x: 15, y: -58}
+        - {x: 31, y: -58}
+        - {x: 31, y: 35}
+        - {x: 23, y: 40}
+    - name: cowboy_80
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 37}
+        - {x: -21, y: 35}
+        - {x: -21, y: -30}
+        - {x: -11, y: -56}
+        - {x: 38, y: -56}
+        - {x: 38, y: 22}
+        - {x: 37, y: 37}
+    - name: cowboy_81
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24, y: 51}
+        - {x: 13, y: 51}
+        - {x: -24, y: 30}
+        - {x: -36, y: 8}
+        - {x: -36, y: -43}
+        - {x: -23, y: -56}
+        - {x: 15, y: -56}
+        - {x: 28, y: -18}
+        - {x: 28, y: 47}
+        - {x: 27, y: 50}
+    - name: cowboy_82
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 56}
+        - {x: -48, y: 45}
+        - {x: -48, y: -4}
+        - {x: -22, y: -55}
+        - {x: 16, y: -55}
+        - {x: 29, y: -50}
+        - {x: 29, y: 56}
+    - name: cowboy_83
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 56}
+        - {x: -39, y: 28}
+        - {x: -48, y: 19}
+        - {x: -48, y: -2}
+        - {x: -13, y: -55}
+        - {x: 11, y: -55}
+        - {x: 29, y: -50}
+        - {x: 29, y: 56}
+    - name: cowboy_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 44}
+        - {x: -2, y: 44}
+        - {x: -20, y: 35}
+        - {x: -20, y: -29}
+        - {x: -14, y: -34}
+        - {x: -11, y: -49}
+        - {x: -9, y: -52}
+        - {x: -6, y: -54}
+        - {x: 10, y: -54}
+        - {x: 33, y: -29}
+        - {x: 33, y: 5}
+        - {x: 27, y: 31}
+    - name: cowboy_85
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 42, y: -53}
+        - {x: 42, y: 21}
+        - {x: 38, y: 41}
+        - {x: -26, y: 41}
+        - {x: -32, y: 33}
+        - {x: -32, y: -17}
+        - {x: -3, y: -56}
+        - {x: 1, y: -57}
+        - {x: 11, y: -57}
+        - {x: 13, y: -55}
+        - {x: 19, y: -29}
+        - {x: 27, y: -47}
+    - name: cowboy_86
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 44}
+        - {x: -30, y: 12}
+        - {x: -30, y: -22}
+        - {x: 0, y: -56}
+        - {x: 13, y: -56}
+        - {x: 34, y: -20}
+        - {x: 34, y: 6}
+        - {x: 27, y: 44}
+    - name: cowboy_87
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 45}
+        - {x: -27, y: 26}
+        - {x: -27, y: -40}
+        - {x: -11, y: -53}
+        - {x: 13, y: -53}
+        - {x: 17, y: -49}
+        - {x: 26, y: 7}
+        - {x: 26, y: 42}
+        - {x: 24, y: 45}
+    - name: cowboy_88
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 44}
+        - {x: -23, y: 44}
+        - {x: -31, y: 34}
+        - {x: -31, y: -4}
+        - {x: -18, y: -33}
+        - {x: -4, y: -54}
+        - {x: 7, y: -54}
+        - {x: 14, y: -53}
+        - {x: 17, y: -49}
+        - {x: 24, y: 1}
+        - {x: 24, y: 35}
+    - name: cowboy_89
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 41}
+        - {x: -34, y: 35}
+        - {x: -35, y: 31}
+        - {x: -35, y: 17}
+        - {x: -23, y: -48}
+        - {x: -12, y: -52}
+        - {x: 22, y: -52}
+        - {x: 23, y: -47}
+        - {x: 23, y: 39}
+        - {x: 19, y: 41}
+    - name: cowboy_90
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 43}
+        - {x: -6, y: 43}
+        - {x: -34, y: 34}
+        - {x: -34, y: 5}
+        - {x: -16, y: -45}
+        - {x: -12, y: -51}
+        - {x: 22, y: -51}
+        - {x: 22, y: 36}
+        - {x: 13, y: 41}
+    - name: cowboy_91
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 43}
+        - {x: -27, y: 37}
+        - {x: -27, y: -37}
+        - {x: -14, y: -54}
+        - {x: 14, y: -54}
+        - {x: 21, y: -50}
+        - {x: 21, y: 34}
+        - {x: 15, y: 43}
+    - name: cowboy_92
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28, y: 39}
+        - {x: 17, y: 43}
+        - {x: -26, y: 43}
+        - {x: -34, y: 28}
+        - {x: -34, y: -18}
+        - {x: -12, y: -55}
+        - {x: 9, y: -55}
+        - {x: 18, y: -44}
+        - {x: 31, y: -26}
+        - {x: 31, y: 23}
+    - name: cowboy_93
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 42, y: -53}
+        - {x: 42, y: 21}
+        - {x: 38, y: 41}
+        - {x: -29, y: 41}
+        - {x: -36, y: 34}
+        - {x: -36, y: -16}
+        - {x: -5, y: -57}
+        - {x: 11, y: -57}
+        - {x: 13, y: -55}
+        - {x: 19, y: -29}
+        - {x: 27, y: -47}
+    - name: cowboy_94
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 39}
+        - {x: -24, y: 37}
+        - {x: -41, y: 21}
+        - {x: -41, y: -15}
+        - {x: -1, y: -56}
+        - {x: 20, y: -56}
+        - {x: 49, y: -44}
+        - {x: 49, y: 16}
+        - {x: 28, y: 39}
+    - name: cowboy_95
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -52}
+        - {x: -3, y: -56}
+        - {x: 27, y: -56}
+        - {x: 27, y: 48}
+        - {x: -33, y: 48}
+        - {x: -33, y: 12}
+    - name: cowboy_96
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: 61}
+        - {x: -45, y: 19}
+        - {x: -45, y: -12}
+        - {x: -8, y: -56}
+        - {x: 9, y: -56}
+        - {x: 26, y: -11}
+        - {x: 26, y: 30}
+        - {x: 16, y: 61}
+    - name: cowboy_97
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: 61}
+        - {x: -45, y: 14}
+        - {x: -45, y: -9}
+        - {x: -25, y: -38}
+        - {x: -10, y: -56}
+        - {x: 14, y: -56}
+        - {x: 26, y: -16}
+        - {x: 26, y: 30}
+        - {x: 16, y: 61}
+    - name: cowboy_98
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 44}
+        - {x: -21, y: 33}
+        - {x: -21, y: -19}
+        - {x: -19, y: -27}
+        - {x: -8, y: -55}
+        - {x: 16, y: -55}
+        - {x: 25, y: -27}
+        - {x: 25, y: 40}
+        - {x: 15, y: 44}
+    - name: cowboy_99
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 41}
+        - {x: -34, y: 2}
+        - {x: -34, y: -22}
+        - {x: -30, y: -44}
+        - {x: -11, y: -54}
+        - {x: 36, y: -54}
+        - {x: 36, y: 27}
+        - {x: 15, y: 41}
+    - name: cowboy_100
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 44}
+        - {x: -22, y: 31}
+        - {x: -28, y: 22}
+        - {x: -29, y: 8}
+        - {x: -29, y: -24}
+        - {x: -25, y: -25}
+        - {x: -14, y: -22}
+        - {x: -17, y: -39}
+        - {x: -16, y: -47}
+        - {x: 1, y: -53}
+        - {x: 16, y: -53}
+        - {x: 25, y: -47}
+        - {x: 25, y: 36}
+        - {x: 8, y: 44}
+    - name: cowboy_101
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36, y: -50}
+        - {x: 20, y: -50}
+        - {x: 25, y: -3}
+        - {x: 25, y: 33}
+        - {x: 15, y: 45}
+        - {x: -5, y: 45}
+        - {x: -26, y: 35}
+        - {x: -36, y: 27}
+    - name: cowboy_102
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 44}
+        - {x: -50, y: 18}
+        - {x: -50, y: -11}
+        - {x: -48, y: -13}
+        - {x: -6, y: -54}
+        - {x: 16, y: -54}
+        - {x: 25, y: -7}
+        - {x: 25, y: 40}
+        - {x: 24, y: 44}
+    - name: cowboy_103
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 41}
+        - {x: -21, y: 26}
+        - {x: -20, y: 20}
+        - {x: -15, y: 16}
+        - {x: -50, y: 40}
+        - {x: -50, y: -53}
+        - {x: 19, y: -53}
+        - {x: 35, y: -39}
+        - {x: 35, y: 17}
+        - {x: 32, y: 41}
+    - name: cowboy_104
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 43}
+        - {x: -29, y: 32}
+        - {x: -21, y: 20}
+        - {x: -15, y: 16}
+        - {x: -19, y: 19}
+        - {x: -48, y: 22}
+        - {x: -48, y: -33}
+        - {x: -40, y: -54}
+        - {x: 1, y: -54}
+        - {x: 25, y: -44}
+        - {x: 25, y: 43}
+    - name: cowboy_105
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: 42}
+        - {x: -24, y: 42}
+        - {x: -43, y: 13}
+        - {x: -43, y: -42}
+        - {x: -24, y: -55}
+        - {x: 16, y: -55}
+        - {x: 21, y: -48}
+        - {x: 25, y: -6}
+        - {x: 25, y: 39}
+    - name: cowboy_106
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: 43}
+        - {x: -33, y: 35}
+        - {x: -33, y: -40}
+        - {x: -8, y: -55}
+        - {x: 13, y: -55}
+        - {x: 25, y: -15}
+        - {x: 25, y: 32}
+        - {x: 16, y: 43}
+    - name: cowboy_107
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38, y: 41}
+        - {x: -38, y: -45}
+        - {x: -35, y: -54}
+        - {x: 20, y: -54}
+        - {x: 36, y: -29}
+        - {x: 36, y: 23}
+        - {x: 22, y: 41}
+    - name: cowboy_108
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 42}
+        - {x: -39, y: 6}
+        - {x: -39, y: -14}
+        - {x: -32, y: -35}
+        - {x: 2, y: -51}
+        - {x: 28, y: -51}
+        - {x: 39, y: -21}
+        - {x: 39, y: 9}
+        - {x: 30, y: 42}
+    - name: cowboy_109
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -53, y: 43}
+        - {x: -62, y: 41}
+        - {x: -62, y: 15}
+        - {x: -40, y: -2}
+        - {x: -12, y: -53}
+        - {x: 19, y: -53}
+        - {x: 49, y: -36}
+        - {x: 49, y: -10}
+        - {x: 25, y: 43}
+    - name: cowboy_110
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 61}
+        - {x: -19, y: -48}
+        - {x: -3, y: -56}
+        - {x: 14, y: -56}
+        - {x: 41, y: 0}
+        - {x: 41, y: 39}
+        - {x: 31, y: 61}
+    - name: cowboy_111
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 61}
+        - {x: -19, y: 60}
+        - {x: -19, y: -37}
+        - {x: -12, y: -56}
+        - {x: 15, y: -56}
+        - {x: 41, y: 8}
+        - {x: 41, y: 24}
+        - {x: 15, y: 61}
+    - name: cowboy_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 44}
+        - {x: -24, y: 30}
+        - {x: -35, y: -13}
+        - {x: -35, y: -44}
+        - {x: -11, y: -54}
+        - {x: -4, y: -56}
+        - {x: 10, y: -56}
+        - {x: 27, y: -48}
+        - {x: 27, y: 26}
+        - {x: 20, y: 44}
+    - name: cowboy_113
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 41}
+        - {x: -20, y: 36}
+        - {x: -20, y: -52}
+        - {x: 23, y: -52}
+        - {x: 23, y: 36}
+        - {x: 8, y: 41}
+    - name: cowboy_114
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 44}
+        - {x: -22, y: 33}
+        - {x: -22, y: -42}
+        - {x: -15, y: -51}
+        - {x: 22, y: -51}
+        - {x: 22, y: 35}
+        - {x: 19, y: 44}
+    - name: cowboy_115
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 45}
+        - {x: -11, y: 45}
+        - {x: -25, y: 36}
+        - {x: -34, y: -3}
+        - {x: -34, y: -42}
+        - {x: -27, y: -45}
+        - {x: -9, y: -51}
+        - {x: 21, y: -51}
+        - {x: 21, y: 37}
+    - name: cowboy_116
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 44}
+        - {x: -8, y: 44}
+        - {x: -28, y: 33}
+        - {x: -42, y: 14}
+        - {x: -42, y: -45}
+        - {x: -34, y: -52}
+        - {x: 29, y: -52}
+        - {x: 30, y: -50}
+        - {x: 30, y: -14}
+        - {x: 24, y: -2}
+        - {x: 18, y: 8}
+        - {x: 24, y: 32}
+    - name: cowboy_117
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 35, y: -28}
+        - {x: 41, y: -23}
+        - {x: 41, y: -3}
+        - {x: 28, y: 41}
+        - {x: -14, y: 41}
+        - {x: -38, y: 8}
+        - {x: -38, y: -19}
+        - {x: -14, y: -54}
+        - {x: -7, y: -57}
+        - {x: 0, y: -57}
+        - {x: 2, y: -56}
+        - {x: 12, y: -42}
+        - {x: 15, y: -35}
+        - {x: 16, y: -31}
+    - name: cowboy_118
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36, y: -3}
+        - {x: -36, y: -15}
+        - {x: -10, y: -56}
+        - {x: 7, y: -56}
+        - {x: 30, y: -39}
+        - {x: 30, y: 7}
+        - {x: 26, y: 31}
+        - {x: 12, y: 43}
+        - {x: -6, y: 43}
+        - {x: -20, y: 35}
+    - name: cowboy_119
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 43}
+        - {x: -36, y: -17}
+        - {x: -36, y: -37}
+        - {x: -29, y: -38}
+        - {x: -19, y: -25}
+        - {x: -14, y: -35}
+        - {x: -3, y: -54}
+        - {x: -1, y: -56}
+        - {x: 20, y: -56}
+        - {x: 25, y: -28}
+        - {x: 25, y: 39}
+        - {x: 13, y: 43}
+    - name: cowboy_120
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 43}
+        - {x: -25, y: 21}
+        - {x: -25, y: -43}
+        - {x: -6, y: -53}
+        - {x: 16, y: -53}
+        - {x: 24, y: -51}
+        - {x: 24, y: 36}
+        - {x: 8, y: 43}
+    - name: cowboy_121
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 41}
+        - {x: -19, y: 33}
+        - {x: -20, y: 18}
+        - {x: -20, y: -52}
+        - {x: 23, y: -52}
+        - {x: 23, y: 36}
+        - {x: 8, y: 41}
+    - name: cowboy_122
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28, y: 43}
+        - {x: 23, y: 44}
+        - {x: -17, y: 44}
+        - {x: -23, y: 14}
+        - {x: -23, y: -45}
+        - {x: -21, y: -47}
+        - {x: 28, y: -47}
+    - name: cowboy_123
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -57, y: -40}
+        - {x: -52, y: -53}
+        - {x: 51, y: -53}
+        - {x: 58, y: -49}
+        - {x: 58, y: 10}
+        - {x: 21, y: 45}
+        - {x: -7, y: 45}
+        - {x: -38, y: 25}
+        - {x: -57, y: 11}
+    - name: cowboy_124
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 41}
+        - {x: 2, y: 33}
+        - {x: 1, y: 25}
+        - {x: 3, y: 44}
+        - {x: -6, y: 58}
+        - {x: -11, y: 58}
+        - {x: -18, y: 55}
+        - {x: -24, y: 42}
+        - {x: -24, y: -33}
+        - {x: -20, y: -54}
+        - {x: 19, y: -54}
+        - {x: 45, y: 7}
+        - {x: 45, y: 32}
+        - {x: 31, y: 45}
+    - name: cowboy_125
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 58}
+        - {x: -24, y: 58}
+        - {x: -24, y: -54}
+        - {x: 25, y: -54}
+        - {x: 45, y: -2}
+        - {x: 45, y: 37}
+        - {x: 33, y: 51}
+    - name: cowboy_126
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: -54}
+        - {x: 31, y: -35}
+        - {x: 31, y: 37}
+        - {x: 13, y: 43}
+        - {x: -7, y: 43}
+        - {x: -20, y: 33}
+        - {x: -17, y: 23}
+        - {x: -35, y: -15}
+        - {x: -35, y: -43}
+        - {x: -34, y: -48}
+        - {x: -31, y: -51}
+        - {x: -27, y: -52}
+        - {x: -18, y: -37}
+        - {x: -18, y: -16}
+        - {x: -17, y: -24}
+        - {x: -15, y: -36}
+        - {x: -8, y: -54}
+        - {x: -3, y: -54}
+        - {x: 0, y: -51}
+        - {x: 6, y: -54}
+    - name: cowboy_127
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 40}
+        - {x: -25, y: 33}
+        - {x: -27, y: 23}
+        - {x: -27, y: -29}
+        - {x: -22, y: -37}
+        - {x: -16, y: -31}
+        - {x: -10, y: -55}
+        - {x: -10, y: -56}
+        - {x: 9, y: -56}
+        - {x: 24, y: -35}
+        - {x: 24, y: 34}
+        - {x: 18, y: 40}
+    - name: cowboy_128
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 42}
+        - {x: -21, y: 32}
+        - {x: -27, y: 16}
+        - {x: -27, y: -44}
+        - {x: -24, y: -55}
+        - {x: 22, y: -55}
+        - {x: 25, y: -34}
+        - {x: 25, y: 42}
+    - name: cowboy_129
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 43}
+        - {x: -11, y: 43}
+        - {x: -21, y: 37}
+        - {x: -23, y: 28}
+        - {x: -26, y: 12}
+        - {x: -26, y: -32}
+        - {x: -16, y: -54}
+        - {x: 4, y: -54}
+        - {x: 28, y: -38}
+        - {x: 28, y: 39}
+    - name: cowboy_130
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: 43}
+        - {x: -14, y: 43}
+        - {x: -25, y: 35}
+        - {x: -25, y: -51}
+        - {x: 18, y: -51}
+        - {x: 30, y: -29}
+        - {x: 30, y: 16}
+        - {x: 21, y: 42}
+    - name: cowboy_131
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20, y: 40}
+        - {x: -8, y: 40}
+        - {x: -22, y: 36}
+        - {x: -22, y: -30}
+        - {x: -2, y: -56}
+        - {x: 17, y: -56}
+        - {x: 30, y: -28}
+        - {x: 30, y: 29}
+        - {x: 29, y: 34}
+    - name: cowboy_132
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 42}
+        - {x: -23, y: 37}
+        - {x: -23, y: -32}
+        - {x: -15, y: -47}
+        - {x: 2, y: -55}
+        - {x: 19, y: -55}
+        - {x: 29, y: -39}
+        - {x: 29, y: 37}
+        - {x: 21, y: 42}
+    - name: cowboy_133
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 43}
+        - {x: -17, y: 35}
+        - {x: -26, y: -9}
+        - {x: -26, y: -28}
+        - {x: -5, y: -54}
+        - {x: 14, y: -54}
+        - {x: 28, y: -39}
+        - {x: 28, y: 38}
+        - {x: 18, y: 43}
+    - name: cowboy_134
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 43}
+        - {x: -28, y: 39}
+        - {x: -28, y: -51}
+        - {x: 17, y: -51}
+        - {x: 26, y: -36}
+        - {x: 26, y: 42}
+        - {x: 24, y: 43}
+    - name: cowboy_135
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 40}
+        - {x: -25, y: 33}
+        - {x: -27, y: 23}
+        - {x: -27, y: -29}
+        - {x: -22, y: -37}
+        - {x: -16, y: -31}
+        - {x: -10, y: -55}
+        - {x: -8, y: -56}
+        - {x: 24, y: -56}
+        - {x: 24, y: 40}
+    - name: cowboy_136
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26, y: 15}
+        - {x: 21, y: 38}
+        - {x: 17, y: 44}
+        - {x: -25, y: 44}
+        - {x: -33, y: 42}
+        - {x: -33, y: -29}
+        - {x: -28, y: -26}
+        - {x: -19, y: -25}
+        - {x: -21, y: -25}
+        - {x: -10, y: -51}
+        - {x: -6, y: -53}
+        - {x: 0, y: -53}
+        - {x: 15, y: -39}
+        - {x: 26, y: -17}
+    - name: cowboy_137
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23, y: 45}
+        - {x: -15, y: 45}
+        - {x: -24, y: 41}
+        - {x: -24, y: -35}
+        - {x: -19, y: -56}
+        - {x: 1, y: -56}
+        - {x: 22, y: -35}
+        - {x: 40, y: 8}
+        - {x: 40, y: 16}
+    - name: cowboy_138
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 60, y: -6}
+        - {x: 44, y: 43}
+        - {x: 8, y: 52}
+        - {x: -5, y: 39}
+        - {x: -5, y: 35}
+        - {x: -3, y: 30}
+        - {x: -5, y: 31}
+        - {x: -5, y: 40}
+        - {x: -7, y: 49}
+        - {x: -10, y: 53}
+        - {x: -17, y: 53}
+        - {x: -26, y: 48}
+        - {x: -26, y: -62}
+        - {x: 64, y: -62}
+        - {x: 64, y: -35}
+        - {x: 49, y: -32}
+    - name: cowboy_139
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 60, y: -34}
+        - {x: 60, y: -6}
+        - {x: 44, y: 43}
+        - {x: 8, y: 52}
+        - {x: -5, y: 39}
+        - {x: -5, y: 35}
+        - {x: -3, y: 30}
+        - {x: -5, y: 31}
+        - {x: -5, y: 40}
+        - {x: -6, y: 53}
+        - {x: -35, y: 53}
+        - {x: -64, y: 15}
+        - {x: -64, y: -62}
+        - {x: 57, y: -62}
+        - {x: 62, y: -58}
+        - {x: 62, y: -41}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

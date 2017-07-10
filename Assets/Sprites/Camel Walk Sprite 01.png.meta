@@ -1,0 +1,2291 @@
+fileFormatVersion: 2
+guid: 6bc1e1d81ad36ec49babb63db5637e94
+timeCreated: 1479392361
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Camel Walk Sprite 01_0
+    21300002: Camel Walk Sprite 01_1
+    21300004: Camel Walk Sprite 01_2
+    21300006: Camel Walk Sprite 01_3
+    21300008: Camel Walk Sprite 01_4
+    21300010: Camel Walk Sprite 01_5
+    21300012: Camel Walk Sprite 01_6
+    21300014: Camel Walk Sprite 01_7
+    21300016: Camel Walk Sprite 01_8
+    21300018: Camel Walk Sprite 01_9
+    21300020: Camel Walk Sprite 01_10
+    21300022: Camel Walk Sprite 01_11
+    21300024: Camel Walk Sprite 01_12
+    21300026: Camel Walk Sprite 01_13
+    21300028: Camel Walk Sprite 01_14
+    21300030: Camel Walk Sprite 01_15
+    21300032: Camel Walk Sprite 01_16
+    21300034: Camel Walk Sprite 01_17
+    21300036: Camel Walk Sprite 01_18
+    21300038: Camel Walk Sprite 01_19
+    21300040: Camel Walk Sprite 01_20
+    21300042: Camel Walk Sprite 01_21
+    21300044: Camel Walk Sprite 01_22
+    21300046: Camel Walk Sprite 01_23
+    21300048: Camel Walk Sprite 01_24
+    21300050: Camel Walk Sprite 01_25
+    21300052: Camel Walk Sprite 01_26
+    21300054: Camel Walk Sprite 01_27
+    21300056: Camel Walk Sprite 01_28
+    21300058: Camel Walk Sprite 01_29
+    21300060: Camel Walk Sprite 01_30
+    21300062: Camel Walk Sprite 01_31
+    21300064: Camel Walk Sprite 01_32
+    21300066: Camel Walk Sprite 01_33
+    21300068: Camel Walk Sprite 01_34
+    21300070: Camel Walk Sprite 01_35
+    21300072: Camel Walk Sprite 01_36
+    21300074: Camel Walk Sprite 01_37
+    21300076: Camel Walk Sprite 01_38
+    21300078: Camel Walk Sprite 01_39
+    21300080: Camel Walk Sprite 01_40
+    21300082: Camel Walk Sprite 01_41
+    21300084: Camel Walk Sprite 01_42
+    21300086: Camel Walk Sprite 01_43
+    21300088: Camel Walk Sprite 01_44
+    21300090: Camel Walk Sprite 01_45
+    21300092: Camel Walk Sprite 01_46
+    21300094: Camel Walk Sprite 01_47
+    21300096: Camel Walk Sprite 01_48
+    21300098: Camel Walk Sprite 01_49
+    21300100: Camel Walk Sprite 01_50
+    21300102: Camel Walk Sprite 01_51
+    21300104: Camel Walk Sprite 01_52
+    21300106: Camel Walk Sprite 01_53
+    21300108: Camel Walk Sprite 01_54
+    21300110: Camel Walk Sprite 01_55
+    21300112: Camel Walk Sprite 01_56
+    21300114: Camel Walk Sprite 01_57
+    21300116: Camel Walk Sprite 01_58
+    21300118: Camel Walk Sprite 01_59
+    21300120: Camel Walk Sprite 01_60
+    21300122: Camel Walk Sprite 01_61
+    21300124: Camel Walk Sprite 01_62
+    21300126: Camel Walk Sprite 01_63
+    21300128: Camel Walk Sprite 01_64
+    21300130: Camel Walk Sprite 01_65
+    21300132: Camel Walk Sprite 01_66
+    21300134: Camel Walk Sprite 01_67
+    21300136: Camel Walk Sprite 01_68
+    21300138: Camel Walk Sprite 01_69
+    21300140: Camel Walk Sprite 01_70
+    21300142: Camel Walk Sprite 01_71
+    21300144: Camel Walk Sprite 01_72
+    21300146: Camel Walk Sprite 01_73
+    21300148: Camel Walk Sprite 01_74
+    21300150: Camel Walk Sprite 01_75
+    21300152: Camel Walk Sprite 01_76
+    21300154: Camel Walk Sprite 01_77
+    21300156: Camel Walk Sprite 01_78
+    21300158: Camel Walk Sprite 01_79
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Camel Walk Sprite 01_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 883
+        width: 127
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63.5, y: 62.5}
+        - {x: -63.5, y: 57.5}
+        - {x: -19.5, y: -42.5}
+        - {x: -15.5, y: -50.5}
+        - {x: -4.5, y: -49.5}
+        - {x: -0.5, y: -47.5}
+        - {x: 9.5, y: -62.5}
+        - {x: 30.5, y: -62.5}
+        - {x: 24.5, y: 20.5}
+        - {x: 63.5, y: 59.5}
+        - {x: 63.5, y: 62.5}
+    - name: Camel Walk Sprite 01_1
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 883
+        width: 127
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63.5, y: 62.5}
+        - {x: -63.5, y: 57.5}
+        - {x: -20.5, y: -50.5}
+        - {x: -3.5, y: -53.5}
+        - {x: 1.5, y: -49.5}
+        - {x: 5.5, y: -58.5}
+        - {x: 30.5, y: -58.5}
+        - {x: 63.5, y: 40.5}
+        - {x: 63.5, y: 62.5}
+    - name: Camel Walk Sprite 01_2
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 883
+        width: 127
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.5, y: 58.5}
+        - {x: 63.5, y: 59.5}
+        - {x: 63.5, y: 62.5}
+        - {x: -63.5, y: 62.5}
+        - {x: -63.5, y: -55.5}
+        - {x: 30.5, y: -55.5}
+        - {x: 27.5, y: -30.5}
+        - {x: 22.5, y: 20.5}
+        - {x: 14.5, y: 55.5}
+    - name: Camel Walk Sprite 01_3
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 884
+        width: 127
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63.5, y: 62}
+        - {x: -63.5, y: 26}
+        - {x: -31.5, y: -58}
+        - {x: 38.5, y: -58}
+        - {x: 63.5, y: 11}
+        - {x: 63.5, y: 62}
+    - name: Camel Walk Sprite 01_4
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 883
+        width: 127
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63.5, y: 62.5}
+        - {x: -63.5, y: -6.5}
+        - {x: -27.5, y: -61.5}
+        - {x: 27.5, y: -61.5}
+        - {x: 37.5, y: -48.5}
+        - {x: 63.5, y: 56.5}
+        - {x: 63.5, y: 62.5}
+    - name: Camel Walk Sprite 01_5
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 883
+        width: 127
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 32.5, y: -51.5}
+        - {x: 63.5, y: 28.5}
+        - {x: 63.5, y: 62.5}
+        - {x: -63.5, y: 62.5}
+        - {x: -63.5, y: 22.5}
+        - {x: -33.5, y: -57.5}
+        - {x: -22.5, y: -62.5}
+        - {x: -6.5, y: -62.5}
+        - {x: -0.5, y: -61.5}
+        - {x: -1.5, y: -28.5}
+        - {x: 7.5, y: -46.5}
+        - {x: 17.5, y: -51.5}
+    - name: Camel Walk Sprite 01_6
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 883
+        width: 127
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -45.5}
+        - {x: 24.5, y: -19.5}
+        - {x: 22.5, y: 20.5}
+        - {x: 11.5, y: 54.5}
+        - {x: 9.5, y: 58.5}
+        - {x: 63.5, y: 59.5}
+        - {x: 63.5, y: 62.5}
+        - {x: -63.5, y: 62.5}
+        - {x: -63.5, y: 57.5}
+        - {x: -22.5, y: -55.5}
+        - {x: -14.5, y: -57.5}
+        - {x: -3.5, y: -57.5}
+        - {x: -2.5, y: -54.5}
+        - {x: 11.5, y: -54.5}
+        - {x: 27.5, y: -50.5}
+    - name: Camel Walk Sprite 01_7
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 883
+        width: 127
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63.5, y: 62.5}
+        - {x: -63.5, y: 57.5}
+        - {x: -27.5, y: -54.5}
+        - {x: 43.5, y: -54.5}
+        - {x: 63.5, y: 10.5}
+        - {x: 63.5, y: 62.5}
+    - name: Camel Walk Sprite 01_8
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 883
+        width: 127
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63.5, y: 62.5}
+        - {x: -63.5, y: -17.5}
+        - {x: -52.5, y: -57.5}
+        - {x: -20.5, y: -57.5}
+        - {x: -3.5, y: -45.5}
+        - {x: 3.5, y: -35.5}
+        - {x: 2.5, y: -33.5}
+        - {x: 4.5, y: -20.5}
+        - {x: 5.5, y: -56.5}
+        - {x: 7.5, y: -57.5}
+        - {x: 25.5, y: -57.5}
+        - {x: 35.5, y: -8.5}
+        - {x: 63.5, y: 55.5}
+        - {x: 63.5, y: 62.5}
+    - name: Camel Walk Sprite 01_9
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 882
+        width: 127
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63.5, y: 63}
+        - {x: -63.5, y: -61}
+        - {x: 32.5, y: -61}
+        - {x: 44.5, y: -27}
+        - {x: 63.5, y: 33}
+        - {x: 63.5, y: 63}
+    - name: Camel Walk Sprite 01_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 761
+        width: 127.1
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: -24.5}
+        - {x: -6, y: -34.5}
+        - {x: 17, y: -51.5}
+        - {x: 35, y: -46.5}
+        - {x: 50, y: 35.5}
+        - {x: 50, y: 54.5}
+        - {x: 45, y: 55.5}
+        - {x: 15, y: 55.5}
+        - {x: -36, y: 12.5}
+        - {x: -36, y: -9.5}
+        - {x: -30, y: -12.5}
+        - {x: -31, y: -34.5}
+        - {x: -27, y: -60.5}
+        - {x: -9, y: -60.5}
+        - {x: -8, y: -58.5}
+        - {x: -7, y: -10.5}
+        - {x: -4, y: -11.5}
+      - - {x: -64, y: 60.5}
+        - {x: -64, y: 57.5}
+        - {x: 64, y: 57.5}
+        - {x: 64, y: 60.5}
+    - name: Camel Walk Sprite 01_11
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 761
+        width: 127.1
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 55.5}
+        - {x: -37, y: 30.5}
+        - {x: -37, y: -46.5}
+        - {x: -32, y: -60.5}
+        - {x: -3, y: -60.5}
+        - {x: 22, y: -50.5}
+        - {x: 50, y: -28.5}
+        - {x: 50, y: 55.5}
+      - - {x: -64, y: 60.5}
+        - {x: -64, y: 57.5}
+        - {x: 64, y: 57.5}
+        - {x: 64, y: 60.5}
+    - name: Camel Walk Sprite 01_12
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 761
+        width: 127.1
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 54.5}
+        - {x: -37, y: 25.5}
+        - {x: -37, y: -41.5}
+        - {x: -35, y: -52.5}
+        - {x: 11, y: -52.5}
+        - {x: 29, y: -41.5}
+        - {x: 49, y: 10.5}
+        - {x: 49, y: 54.5}
+      - - {x: -64, y: 60.5}
+        - {x: -64, y: 57.5}
+        - {x: 64, y: 57.5}
+        - {x: 64, y: 60.5}
+    - name: Camel Walk Sprite 01_13
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 761
+        width: 127.1
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: -13.5}
+        - {x: 5, y: -49.5}
+        - {x: 20, y: -50.5}
+        - {x: 49, y: 36.5}
+        - {x: 49, y: 52.5}
+        - {x: 42, y: 54.5}
+        - {x: 20, y: 54.5}
+        - {x: -8, y: 38.5}
+        - {x: -38, y: 18.5}
+        - {x: -38, y: -50.5}
+        - {x: 0, y: -50.5}
+        - {x: 2, y: -40.5}
+        - {x: -8, y: -33.5}
+      - - {x: -64, y: 60.5}
+        - {x: -64, y: 57.5}
+        - {x: 64, y: 57.5}
+        - {x: 64, y: 60.5}
+    - name: Camel Walk Sprite 01_14
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 761
+        width: 127.1
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: -47.5}
+        - {x: 15, y: -52.5}
+        - {x: 23, y: -52.5}
+        - {x: 48, y: 23.5}
+        - {x: 48, y: 52.5}
+        - {x: 43, y: 55.5}
+        - {x: 18, y: 55.5}
+        - {x: -7, y: 40.5}
+        - {x: -10, y: 38.5}
+        - {x: -36, y: 9.5}
+        - {x: -44, y: -38.5}
+        - {x: -44, y: -51.5}
+        - {x: -43, y: -52.5}
+        - {x: -31, y: -52.5}
+        - {x: -25, y: -50.5}
+        - {x: -23, y: -52.5}
+        - {x: 2, y: -52.5}
+      - - {x: -64, y: 60.5}
+        - {x: -64, y: 57.5}
+        - {x: 11, y: 57.5}
+        - {x: 13, y: 59.5}
+        - {x: 13, y: 60.5}
+      - - {x: 33, y: 60.5}
+        - {x: 34, y: 57.5}
+        - {x: 64, y: 57.5}
+        - {x: 64, y: 60.5}
+    - name: Camel Walk Sprite 01_15
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 761
+        width: 127.1
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48, y: -29.5}
+        - {x: -48, y: -53.5}
+        - {x: -39, y: -54.5}
+        - {x: 14, y: -54.5}
+        - {x: 47, y: -31.5}
+        - {x: 47, y: 56.5}
+        - {x: -22, y: 56.5}
+        - {x: -23, y: 55.5}
+      - - {x: -64, y: 60.5}
+        - {x: -64, y: 57.5}
+        - {x: 64, y: 57.5}
+        - {x: 64, y: 60.5}
+    - name: Camel Walk Sprite 01_16
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 761
+        width: 127.1
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 56.5}
+        - {x: -45, y: 19.5}
+        - {x: -45, y: -55.5}
+        - {x: 27, y: -55.5}
+        - {x: 46, y: -28.5}
+        - {x: 46, y: 56.5}
+      - - {x: -64, y: 60.5}
+        - {x: -64, y: 57.5}
+        - {x: 64, y: 57.5}
+        - {x: 64, y: 60.5}
+    - name: Camel Walk Sprite 01_17
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 761
+        width: 127.1
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -47, y: 3.5}
+        - {x: -47, y: -42.5}
+        - {x: -24, y: -57.5}
+        - {x: 8, y: -57.5}
+        - {x: 47, y: -38.5}
+        - {x: 47, y: 54.5}
+        - {x: 19, y: 54.5}
+        - {x: -40, y: 28.5}
+      - - {x: -64, y: 60.5}
+        - {x: -64, y: 57.5}
+        - {x: 64, y: 57.5}
+        - {x: 64, y: 60.5}
+    - name: Camel Walk Sprite 01_18
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 761
+        width: 127.1
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: -60.5}
+        - {x: -20, y: -59.5}
+        - {x: -20, y: -56.5}
+        - {x: -23, y: -55.5}
+        - {x: -25, y: -57.5}
+      - - {x: 48, y: -11.5}
+        - {x: 48, y: 53.5}
+        - {x: 3, y: 53.5}
+        - {x: -36, y: 14.5}
+        - {x: -41, y: -15.5}
+        - {x: -41, y: -31.5}
+        - {x: -20, y: -60.5}
+        - {x: -8, y: -60.5}
+        - {x: -3, y: -56.5}
+        - {x: -4, y: -50.5}
+        - {x: 37, y: -43.5}
+        - {x: 44, y: -31.5}
+      - - {x: -64, y: 60.5}
+        - {x: -64, y: 57.5}
+        - {x: 64, y: 57.5}
+        - {x: 64, y: 60.5}
+    - name: Camel Walk Sprite 01_19
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 761
+        width: 127.1
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 48, y: 54.5}
+        - {x: 18, y: 54.5}
+        - {x: -33, y: 16.5}
+        - {x: -33, y: -48.5}
+        - {x: -24, y: -60.5}
+        - {x: -5, y: -60.5}
+        - {x: 35, y: -45.5}
+        - {x: 49, y: -35.5}
+        - {x: 49, y: 51.5}
+      - - {x: -64, y: 60.5}
+        - {x: -64, y: 57.5}
+        - {x: -35, y: 57.5}
+        - {x: -33, y: 59.5}
+        - {x: -33, y: 60.5}
+      - - {x: -3, y: 60.5}
+        - {x: -2, y: 57.5}
+        - {x: 64, y: 57.5}
+        - {x: 64, y: 60.5}
+    - name: Camel Walk Sprite 01_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 635
+        width: 127.1
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 64, y: 43.5}
+        - {x: 52, y: 45.5}
+        - {x: 28, y: 45.5}
+        - {x: -16, y: 36.5}
+        - {x: -42, y: 21.5}
+        - {x: -50, y: -1.5}
+        - {x: -50, y: -53.5}
+        - {x: 20, y: -53.5}
+        - {x: 28, y: -50.5}
+        - {x: 64, y: 23.5}
+      - - {x: -64, y: 60.5}
+        - {x: -64, y: 57.5}
+        - {x: 64, y: 57.5}
+        - {x: 64, y: 60.5}
+    - name: Camel Walk Sprite 01_21
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 635
+        width: 127.1
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33, y: 45.5}
+        - {x: -48, y: 18.5}
+        - {x: -52, y: -5.5}
+        - {x: -52, y: -28.5}
+        - {x: -41, y: -49.5}
+        - {x: -30, y: -48.5}
+        - {x: -28, y: -46.5}
+        - {x: -26, y: -51.5}
+        - {x: 48, y: -51.5}
+        - {x: 64, y: -15.5}
+        - {x: 64, y: 45.5}
+      - - {x: -64, y: 60.5}
+        - {x: -64, y: 57.5}
+        - {x: 64, y: 57.5}
+        - {x: 64, y: 60.5}
+    - name: Camel Walk Sprite 01_22
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 635
+        width: 127.1
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 64, y: 14.5}
+        - {x: 64, y: 43.5}
+        - {x: 61, y: 44.5}
+        - {x: 0, y: 44.5}
+        - {x: -40, y: 35.5}
+        - {x: -53, y: -1.5}
+        - {x: -53, y: -20.5}
+        - {x: -42, y: -41.5}
+        - {x: -25, y: -43.5}
+        - {x: -13, y: -37.5}
+        - {x: -3, y: -50.5}
+        - {x: 10, y: -50.5}
+        - {x: 12, y: -48.5}
+        - {x: 12, y: -43.5}
+        - {x: 38, y: -40.5}
+      - - {x: -64, y: 60.5}
+        - {x: -64, y: 57.5}
+        - {x: 64, y: 57.5}
+        - {x: 64, y: 60.5}
+    - name: Camel Walk Sprite 01_23
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 635
+        width: 127.1
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 41, y: 45.5}
+        - {x: 37, y: 44.5}
+        - {x: -13, y: 44.5}
+        - {x: -48, y: 30.5}
+        - {x: -48, y: -51.5}
+        - {x: 34, y: -51.5}
+        - {x: 64, y: -13.5}
+        - {x: 64, y: 41.5}
+        - {x: 48, y: 45.5}
+      - - {x: -64, y: 60.5}
+        - {x: -64, y: 57.5}
+        - {x: 64, y: 57.5}
+        - {x: 64, y: 60.5}
+    - name: Camel Walk Sprite 01_24
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 635
+        width: 127.1
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 46.5}
+        - {x: -47, y: 20.5}
+        - {x: -47, y: -46.5}
+        - {x: 34, y: -46.5}
+        - {x: 46, y: -38.5}
+        - {x: 64, y: 16.5}
+        - {x: 64, y: 46.5}
+      - - {x: -64, y: 60.5}
+        - {x: -64, y: 57.5}
+        - {x: 64, y: 57.5}
+        - {x: 64, y: 60.5}
+    - name: Camel Walk Sprite 01_25
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 635
+        width: 127.1
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 47.5}
+        - {x: -49, y: 19.5}
+        - {x: -49, y: -50.5}
+        - {x: 26, y: -50.5}
+        - {x: 40, y: -26.5}
+        - {x: 64, y: 21.5}
+        - {x: 64, y: 47.5}
+      - - {x: -64, y: 60.5}
+        - {x: -64, y: 57.5}
+        - {x: 64, y: 57.5}
+        - {x: 64, y: 60.5}
+    - name: Camel Walk Sprite 01_26
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 635
+        width: 127.1
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: -47.5}
+        - {x: 20, y: -50.5}
+        - {x: 41, y: -50.5}
+        - {x: 55, y: -15.5}
+        - {x: 64, y: 10.5}
+        - {x: 64, y: 47.5}
+        - {x: -4, y: 47.5}
+        - {x: -51, y: 30.5}
+        - {x: -51, y: -20.5}
+        - {x: -48, y: -34.5}
+        - {x: -25, y: -50.5}
+        - {x: -6, y: -50.5}
+        - {x: 14, y: -39.5}
+        - {x: 17, y: -34.5}
+        - {x: 18, y: -29.5}
+      - - {x: -64, y: 60.5}
+        - {x: -64, y: 57.5}
+        - {x: 64, y: 57.5}
+        - {x: 64, y: 60.5}
+    - name: Camel Walk Sprite 01_27
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 635
+        width: 127.1
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 41, y: -39.5}
+        - {x: 64, y: 9.5}
+        - {x: 64, y: 45.5}
+        - {x: -15, y: 45.5}
+        - {x: -39, y: 40.5}
+        - {x: -53, y: -0.5}
+        - {x: -53, y: -16.5}
+        - {x: -34, y: -46.5}
+        - {x: -31, y: -48.5}
+        - {x: -20, y: -49.5}
+        - {x: -14, y: -49.5}
+        - {x: -13, y: -47.5}
+        - {x: -11, y: -49.5}
+        - {x: 39, y: -49.5}
+      - - {x: -64, y: 60.5}
+        - {x: -64, y: 57.5}
+        - {x: 64, y: 57.5}
+        - {x: 64, y: 60.5}
+    - name: Camel Walk Sprite 01_28
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 635
+        width: 127.1
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 53, y: 44.5}
+        - {x: 3, y: 44.5}
+        - {x: -46, y: 31.5}
+        - {x: -46, y: -21.5}
+        - {x: -41, y: -48.5}
+        - {x: -29, y: -51.5}
+        - {x: -26, y: -51.5}
+        - {x: -23, y: -45.5}
+        - {x: -23, y: -41.5}
+        - {x: -18, y: -45.5}
+        - {x: 11, y: -37.5}
+        - {x: 12, y: -34.5}
+        - {x: 11, y: -31.5}
+        - {x: 23, y: -51.5}
+        - {x: 36, y: -51.5}
+        - {x: 40, y: -42.5}
+        - {x: 64, y: 19.5}
+        - {x: 64, y: 41.5}
+      - - {x: -64, y: 60.5}
+        - {x: -64, y: 57.5}
+        - {x: 64, y: 57.5}
+        - {x: 64, y: 60.5}
+    - name: Camel Walk Sprite 01_29
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 635
+        width: 127.1
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 45.5}
+        - {x: -46, y: 35.5}
+        - {x: -46, y: -52.5}
+        - {x: -37, y: -52.5}
+        - {x: -27, y: -50.5}
+        - {x: -28, y: -44.5}
+        - {x: -9, y: -32.5}
+        - {x: -9, y: -24.5}
+        - {x: -4, y: -29.5}
+        - {x: 2, y: -34.5}
+        - {x: 12, y: -37.5}
+        - {x: 13, y: -34.5}
+        - {x: 13, y: -31.5}
+        - {x: 17, y: -49.5}
+        - {x: 19, y: -52.5}
+        - {x: 30, y: -52.5}
+        - {x: 34, y: -50.5}
+        - {x: 64, y: 11.5}
+        - {x: 64, y: 45.5}
+      - - {x: -64, y: 60.5}
+        - {x: -64, y: 57.5}
+        - {x: 64, y: 57.5}
+        - {x: 64, y: 60.5}
+    - name: Camel Walk Sprite 01_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 509
+        width: 127.1
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: -42.5}
+        - {x: 22, y: -37.5}
+        - {x: 54, y: 11.5}
+        - {x: 54, y: 29.5}
+        - {x: 42, y: 41.5}
+        - {x: -26, y: 41.5}
+        - {x: -38, y: 27.5}
+        - {x: -46, y: 14.5}
+        - {x: -46, y: -54.5}
+        - {x: 11, y: -54.5}
+        - {x: 11, y: -52.5}
+        - {x: 7, y: -31.5}
+        - {x: 6, y: -23.5}
+        - {x: 7, y: -33.5}
+      - - {x: -64, y: 60.5}
+        - {x: -64, y: 57.5}
+        - {x: 64, y: 57.5}
+        - {x: 64, y: 60.5}
+    - name: Camel Walk Sprite 01_31
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 509
+        width: 127.1
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 53, y: 6.5}
+        - {x: 53, y: 29.5}
+        - {x: 39, y: 41.5}
+        - {x: -31, y: 41.5}
+        - {x: -38, y: 26.5}
+        - {x: -42, y: 11.5}
+        - {x: -42, y: -27.5}
+        - {x: -38, y: -39.5}
+        - {x: -25, y: -32.5}
+        - {x: -26, y: -27.5}
+        - {x: -13, y: -52.5}
+        - {x: 4, y: -52.5}
+        - {x: 6, y: -49.5}
+        - {x: 5, y: -44.5}
+        - {x: 19, y: -48.5}
+        - {x: 28, y: -44.5}
+      - - {x: -64, y: 60.5}
+        - {x: -64, y: 57.5}
+        - {x: 64, y: 57.5}
+        - {x: 64, y: 60.5}
+    - name: Camel Walk Sprite 01_32
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 509
+        width: 127.1
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 53, y: 42.5}
+        - {x: -37, y: 42.5}
+        - {x: -42, y: 37.5}
+        - {x: -42, y: -33.5}
+        - {x: -26, y: -32.5}
+        - {x: -22, y: -28.5}
+        - {x: -18, y: -49.5}
+        - {x: -15, y: -50.5}
+        - {x: 0, y: -50.5}
+        - {x: 4, y: -48.5}
+        - {x: 13, y: -50.5}
+        - {x: 49, y: -50.5}
+        - {x: 53, y: -39.5}
+      - - {x: -64, y: 60.5}
+        - {x: -64, y: 57.5}
+        - {x: 64, y: 57.5}
+        - {x: 64, y: 60.5}
+    - name: Camel Walk Sprite 01_33
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 509
+        width: 127.1
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31, y: -50.5}
+        - {x: 42, y: -45.5}
+        - {x: 38, y: -38.5}
+        - {x: 55, y: 3.5}
+        - {x: 55, y: 17.5}
+        - {x: 45, y: 43.5}
+        - {x: -21, y: 43.5}
+        - {x: -33, y: 37.5}
+        - {x: -39, y: 26.5}
+        - {x: -39, y: -34.5}
+        - {x: -29, y: -50.5}
+        - {x: -3, y: -50.5}
+        - {x: 1, y: -48.5}
+        - {x: 3, y: -46.5}
+        - {x: 19, y: -50.5}
+      - - {x: -64, y: 60.5}
+        - {x: -64, y: 57.5}
+        - {x: 64, y: 57.5}
+        - {x: 64, y: 60.5}
+    - name: Camel Walk Sprite 01_34
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 509
+        width: 127.1
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28, y: 43.5}
+        - {x: -18, y: 43.5}
+        - {x: -33, y: 36.5}
+        - {x: -33, y: -27.5}
+        - {x: -32, y: -34.5}
+        - {x: -27, y: -36.5}
+        - {x: -22, y: -37.5}
+        - {x: -20, y: -37.5}
+        - {x: -13, y: -33.5}
+        - {x: -10, y: -27.5}
+        - {x: -6, y: -18.5}
+        - {x: -3, y: -26.5}
+        - {x: -15, y: -36.5}
+        - {x: -12, y: -47.5}
+        - {x: 42, y: -47.5}
+        - {x: 55, y: 11.5}
+        - {x: 55, y: 20.5}
+        - {x: 39, y: 40.5}
+      - - {x: -64, y: 60.5}
+        - {x: -64, y: 57.5}
+        - {x: 64, y: 57.5}
+        - {x: 64, y: 60.5}
+    - name: Camel Walk Sprite 01_35
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 509
+        width: 127.1
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: -47.5}
+        - {x: 31, y: -47.5}
+        - {x: 55, y: 8.5}
+        - {x: 55, y: 23.5}
+        - {x: 47, y: 43.5}
+        - {x: -35, y: 43.5}
+        - {x: -35, y: -38.5}
+        - {x: -33, y: -44.5}
+        - {x: -16, y: -44.5}
+        - {x: -11, y: -39.5}
+        - {x: -10, y: -16.5}
+        - {x: -1, y: -14.5}
+        - {x: -11, y: -42.5}
+        - {x: -5, y: -46.5}
+        - {x: -2, y: -47.5}
+        - {x: 4, y: -47.5}
+        - {x: 8, y: -45.5}
+        - {x: 10, y: -36.5}
+        - {x: 9, y: -43.5}
+      - - {x: -64, y: 60.5}
+        - {x: -64, y: 57.5}
+        - {x: 64, y: 57.5}
+        - {x: 64, y: 60.5}
+    - name: Camel Walk Sprite 01_36
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 509
+        width: 127.1
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 37, y: 39.5}
+        - {x: 24, y: 43.5}
+        - {x: -16, y: 43.5}
+        - {x: -35, y: 31.5}
+        - {x: -35, y: -22.5}
+        - {x: -31, y: -38.5}
+        - {x: -18, y: -42.5}
+        - {x: -14, y: -36.5}
+        - {x: -14, y: -32.5}
+        - {x: -5, y: -19.5}
+        - {x: 1, y: -52.5}
+        - {x: 7, y: -56.5}
+        - {x: 26, y: -56.5}
+        - {x: 55, y: 10.5}
+        - {x: 55, y: 20.5}
+        - {x: 51, y: 28.5}
+      - - {x: -64, y: 60.5}
+        - {x: -64, y: 57.5}
+        - {x: 64, y: 57.5}
+        - {x: 64, y: 60.5}
+    - name: Camel Walk Sprite 01_37
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 509
+        width: 127.1
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37, y: 41.5}
+        - {x: -37, y: -39.5}
+        - {x: -19, y: -36.5}
+        - {x: -17, y: -29.5}
+        - {x: 1, y: -57.5}
+        - {x: 29, y: -57.5}
+        - {x: 55, y: -18.5}
+        - {x: 55, y: 41.5}
+      - - {x: -64, y: 60.5}
+        - {x: -64, y: 57.5}
+        - {x: 64, y: 57.5}
+        - {x: 64, y: 60.5}
+    - name: Camel Walk Sprite 01_38
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 509
+        width: 127.1
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 29, y: 41.5}
+        - {x: -25, y: 41.5}
+        - {x: -38, y: 33.5}
+        - {x: -38, y: -52.5}
+        - {x: -28, y: -58.5}
+        - {x: 22, y: -58.5}
+        - {x: 55, y: 3.5}
+        - {x: 55, y: 22.5}
+        - {x: 34, y: 39.5}
+      - - {x: -64, y: 60.5}
+        - {x: -64, y: 57.5}
+        - {x: 64, y: 57.5}
+        - {x: 64, y: 60.5}
+    - name: Camel Walk Sprite 01_39
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 509
+        width: 127.1
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: 41.5}
+        - {x: -34, y: 37.5}
+        - {x: -42, y: -6.5}
+        - {x: -42, y: -37.5}
+        - {x: -31, y: -37.5}
+        - {x: -26, y: -33.5}
+        - {x: -26, y: -29.5}
+        - {x: -6, y: -56.5}
+        - {x: -2, y: -58.5}
+        - {x: 29, y: -58.5}
+        - {x: 54, y: 3.5}
+        - {x: 54, y: 36.5}
+        - {x: 50, y: 41.5}
+      - - {x: -64, y: 60.5}
+        - {x: -64, y: 57.5}
+        - {x: 64, y: 57.5}
+        - {x: 64, y: 60.5}
+    - name: Camel Walk Sprite 01_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 383
+        width: 127.1
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 43.5}
+        - {x: -16, y: 43.5}
+        - {x: -21, y: 20.5}
+        - {x: -21, y: -50.5}
+        - {x: -16, y: -51.5}
+        - {x: 21, y: -51.5}
+        - {x: 21, y: 28.5}
+      - - {x: -64, y: 60.5}
+        - {x: -64, y: 57.5}
+        - {x: 64, y: 57.5}
+        - {x: 64, y: 60.5}
+    - name: Camel Walk Sprite 01_41
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 383
+        width: 127.1
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: 44.5}
+        - {x: -11, y: 44.5}
+        - {x: -21, y: 28.5}
+        - {x: -21, y: -45.5}
+        - {x: -20, y: -52.5}
+        - {x: -17, y: -52.5}
+        - {x: -9, y: -48.5}
+        - {x: -5, y: -44.5}
+        - {x: -5, y: -41.5}
+        - {x: 3, y: -52.5}
+        - {x: 19, y: -52.5}
+        - {x: 21, y: -46.5}
+        - {x: 21, y: 27.5}
+      - - {x: -64, y: 60.5}
+        - {x: -64, y: 57.5}
+        - {x: 64, y: 57.5}
+        - {x: 64, y: 60.5}
+    - name: Camel Walk Sprite 01_42
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 383
+        width: 127.1
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 43.5}
+        - {x: 6, y: 44.5}
+        - {x: -4, y: 44.5}
+        - {x: -19, y: 24.5}
+        - {x: -19, y: -41.5}
+        - {x: -17, y: -47.5}
+        - {x: -8, y: -49.5}
+        - {x: 0, y: -38.5}
+        - {x: 4, y: -55.5}
+        - {x: 9, y: -58.5}
+        - {x: 22, y: -58.5}
+        - {x: 22, y: 9.5}
+        - {x: 21, y: 18.5}
+      - - {x: -64, y: 60.5}
+        - {x: -64, y: 57.5}
+        - {x: 64, y: 57.5}
+        - {x: 64, y: 60.5}
+    - name: Camel Walk Sprite 01_43
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 383
+        width: 127.1
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 44.5}
+        - {x: -4, y: 44.5}
+        - {x: -19, y: 23.5}
+        - {x: -19, y: -43.5}
+        - {x: -15, y: -47.5}
+        - {x: -6, y: -46.5}
+        - {x: -2, y: -42.5}
+        - {x: 7, y: -57.5}
+        - {x: 21, y: -57.5}
+        - {x: 23, y: -56.5}
+        - {x: 23, y: -23.5}
+        - {x: 20, y: 27.5}
+      - - {x: -64, y: 60.5}
+        - {x: -64, y: 57.5}
+        - {x: 64, y: 57.5}
+        - {x: 64, y: 60.5}
+    - name: Camel Walk Sprite 01_44
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 383
+        width: 127.1
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 44.5}
+        - {x: -19, y: 20.5}
+        - {x: -19, y: -38.5}
+        - {x: -18, y: -41.5}
+        - {x: -11, y: -46.5}
+        - {x: 1, y: -38.5}
+        - {x: 5, y: -55.5}
+        - {x: 23, y: -55.5}
+        - {x: 23, y: 22.5}
+        - {x: 9, y: 44.5}
+      - - {x: -64, y: 60.5}
+        - {x: -64, y: 57.5}
+        - {x: 64, y: 57.5}
+        - {x: 64, y: 60.5}
+    - name: Camel Walk Sprite 01_45
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 383
+        width: 127.1
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 44.5}
+        - {x: -13, y: 42.5}
+        - {x: -19, y: 8.5}
+        - {x: -19, y: -44.5}
+        - {x: -16, y: -48.5}
+        - {x: 0, y: -38.5}
+        - {x: 3, y: -49.5}
+        - {x: 4, y: -50.5}
+        - {x: 22, y: -50.5}
+        - {x: 22, y: 17.5}
+        - {x: 11, y: 44.5}
+      - - {x: -64, y: 60.5}
+        - {x: -64, y: 57.5}
+        - {x: 64, y: 57.5}
+        - {x: 64, y: 60.5}
+    - name: Camel Walk Sprite 01_46
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 383
+        width: 127.1
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 44.5}
+        - {x: -20, y: 35.5}
+        - {x: -20, y: -55.5}
+        - {x: 23, y: -55.5}
+        - {x: 23, y: 29.5}
+        - {x: 11, y: 44.5}
+      - - {x: -64, y: 60.5}
+        - {x: -64, y: 57.5}
+        - {x: 64, y: 57.5}
+        - {x: 64, y: 60.5}
+    - name: Camel Walk Sprite 01_47
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 383
+        width: 127.1
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 43.5}
+        - {x: -5, y: 39.5}
+        - {x: -13, y: 28.5}
+        - {x: -20, y: 13.5}
+        - {x: -21, y: 10.5}
+        - {x: -21, y: -55.5}
+        - {x: 1, y: -55.5}
+        - {x: 21, y: -44.5}
+        - {x: 21, y: 20.5}
+        - {x: 9, y: 43.5}
+      - - {x: -64, y: 60.5}
+        - {x: -64, y: 57.5}
+        - {x: 64, y: 57.5}
+        - {x: 64, y: 60.5}
+    - name: Camel Walk Sprite 01_48
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 383
+        width: 127.1
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21, y: 27.5}
+        - {x: 10, y: 43.5}
+        - {x: -8, y: 43.5}
+        - {x: -24, y: 32.5}
+        - {x: -24, y: -56.5}
+        - {x: -8, y: -56.5}
+        - {x: 12, y: -46.5}
+        - {x: 21, y: -42.5}
+      - - {x: -64, y: 60.5}
+        - {x: -64, y: 57.5}
+        - {x: 64, y: 57.5}
+        - {x: 64, y: 60.5}
+    - name: Camel Walk Sprite 01_49
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 383
+        width: 127.1
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: 24.5}
+        - {x: 2, y: 43.5}
+        - {x: -9, y: 43.5}
+        - {x: -23, y: 21.5}
+        - {x: -23, y: -56.5}
+        - {x: -7, y: -56.5}
+        - {x: -4, y: -53.5}
+        - {x: 12, y: -48.5}
+        - {x: 22, y: -35.5}
+        - {x: 22, y: 2.5}
+      - - {x: -64, y: 60.5}
+        - {x: -64, y: 57.5}
+        - {x: 64, y: 57.5}
+        - {x: 64, y: 60.5}
+    - name: Camel Walk Sprite 01_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 257
+        width: 127.1
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31, y: -40.5}
+        - {x: 37, y: -4.5}
+        - {x: 37, y: 43.5}
+        - {x: 36, y: 44.5}
+        - {x: -46, y: 44.5}
+        - {x: -53, y: 22.5}
+        - {x: -53, y: 10.5}
+        - {x: -35, y: -35.5}
+        - {x: -21, y: -46.5}
+        - {x: 6, y: -46.5}
+        - {x: 11, y: -43.5}
+        - {x: 10, y: -32.5}
+        - {x: 11, y: -39.5}
+        - {x: 18, y: -44.5}
+      - - {x: -64, y: 60.5}
+        - {x: -64, y: 57.5}
+        - {x: 64, y: 57.5}
+        - {x: 64, y: 60.5}
+    - name: Camel Walk Sprite 01_51
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 257
+        width: 127.1
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 43.5}
+        - {x: -53, y: 28.5}
+        - {x: -53, y: -6.5}
+        - {x: -19, y: -52.5}
+        - {x: 29, y: -52.5}
+        - {x: 38, y: -32.5}
+        - {x: 38, y: 43.5}
+      - - {x: -64, y: 60.5}
+        - {x: -64, y: 57.5}
+        - {x: 64, y: 57.5}
+        - {x: 64, y: 60.5}
+    - name: Camel Walk Sprite 01_52
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 257
+        width: 127.1
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 35, y: -41.5}
+        - {x: 38, y: -31.5}
+        - {x: 38, y: 29.5}
+        - {x: 22, y: 43.5}
+        - {x: -15, y: 43.5}
+        - {x: -31, y: 38.5}
+        - {x: -35, y: 36.5}
+        - {x: -49, y: 20.5}
+        - {x: -52, y: 16.5}
+        - {x: -52, y: 12.5}
+        - {x: -50, y: 8.5}
+        - {x: -25, y: -57.5}
+        - {x: -19, y: -58.5}
+        - {x: -4, y: -58.5}
+        - {x: -3, y: -56.5}
+        - {x: 1, y: -36.5}
+        - {x: 14, y: -38.5}
+      - - {x: -64, y: 60.5}
+        - {x: -64, y: 57.5}
+        - {x: 64, y: 57.5}
+        - {x: 64, y: 60.5}
+    - name: Camel Walk Sprite 01_53
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 257
+        width: 127.1
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: -23.5}
+        - {x: 17, y: -23.5}
+        - {x: 22, y: -33.5}
+        - {x: 29, y: -38.5}
+        - {x: 40, y: -34.5}
+        - {x: 40, y: 27.5}
+        - {x: 33, y: 43.5}
+        - {x: -1, y: 43.5}
+        - {x: -36, y: 39.5}
+        - {x: -52, y: 21.5}
+        - {x: -52, y: -6.5}
+        - {x: -17, y: -58.5}
+        - {x: -3, y: -58.5}
+        - {x: 0, y: -55.5}
+        - {x: 1, y: -25.5}
+        - {x: 1, y: -13.5}
+        - {x: 3, y: -18.5}
+      - - {x: -64, y: 60.5}
+        - {x: -64, y: 57.5}
+        - {x: 64, y: 57.5}
+        - {x: 64, y: 60.5}
+    - name: Camel Walk Sprite 01_54
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 257
+        width: 127.1
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 46, y: -31.5}
+        - {x: 46, y: -26.5}
+        - {x: 45, y: -21.5}
+        - {x: 39, y: 28.5}
+        - {x: 22, y: 42.5}
+        - {x: -9, y: 42.5}
+        - {x: -35, y: 36.5}
+        - {x: -51, y: 18.5}
+        - {x: -51, y: 13.5}
+        - {x: -37, y: 2.5}
+        - {x: -15, y: -53.5}
+        - {x: -9, y: -56.5}
+        - {x: 2, y: -56.5}
+        - {x: 6, y: -49.5}
+        - {x: 32, y: -44.5}
+        - {x: 44, y: -33.5}
+      - - {x: -64, y: 60.5}
+        - {x: -64, y: 57.5}
+        - {x: 64, y: 57.5}
+        - {x: 64, y: 60.5}
+    - name: Camel Walk Sprite 01_55
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 257
+        width: 127.1
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 49, y: -9.5}
+        - {x: 40, y: 30.5}
+        - {x: 23, y: 42.5}
+        - {x: -8, y: 42.5}
+        - {x: -33, y: 37.5}
+        - {x: -50, y: 27.5}
+        - {x: -50, y: 4.5}
+        - {x: -26, y: -43.5}
+        - {x: -13, y: -38.5}
+        - {x: -7, y: -32.5}
+        - {x: -5, y: -27.5}
+        - {x: -9, y: -51.5}
+        - {x: -6, y: -52.5}
+        - {x: 12, y: -52.5}
+        - {x: 18, y: -31.5}
+        - {x: 47, y: -35.5}
+        - {x: 49, y: -33.5}
+      - - {x: -64, y: 60.5}
+        - {x: -64, y: 57.5}
+        - {x: 64, y: 57.5}
+        - {x: 64, y: 60.5}
+    - name: Camel Walk Sprite 01_56
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 257
+        width: 127.1
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38, y: 42.5}
+        - {x: -49, y: 40.5}
+        - {x: -49, y: -0.5}
+        - {x: -31, y: -46.5}
+        - {x: -21, y: -45.5}
+        - {x: -16, y: -42.5}
+        - {x: 0, y: -51.5}
+        - {x: 45, y: -51.5}
+        - {x: 45, y: 42.5}
+      - - {x: -64, y: 60.5}
+        - {x: -64, y: 57.5}
+        - {x: 64, y: 57.5}
+        - {x: 64, y: 60.5}
+    - name: Camel Walk Sprite 01_57
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 257
+        width: 127.1
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38, y: 42.5}
+        - {x: -50, y: 18.5}
+        - {x: -50, y: -6.5}
+        - {x: -43, y: -49.5}
+        - {x: 32, y: -49.5}
+        - {x: 46, y: -33.5}
+        - {x: 46, y: 35.5}
+        - {x: 31, y: 42.5}
+      - - {x: -64, y: 60.5}
+        - {x: -64, y: 57.5}
+        - {x: 64, y: 57.5}
+        - {x: 64, y: 60.5}
+    - name: Camel Walk Sprite 01_58
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 257
+        width: 127.1
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 43.5}
+        - {x: -34, y: 37.5}
+        - {x: -51, y: 16.5}
+        - {x: -51, y: -5.5}
+        - {x: -37, y: -48.5}
+        - {x: -27, y: -48.5}
+        - {x: -19, y: -45.5}
+        - {x: -13, y: -23.5}
+        - {x: -12, y: -17.5}
+        - {x: -3, y: -45.5}
+        - {x: 1, y: -48.5}
+        - {x: 22, y: -48.5}
+        - {x: 42, y: -19.5}
+        - {x: 42, y: 36.5}
+        - {x: 25, y: 43.5}
+      - - {x: -64, y: 60.5}
+        - {x: -64, y: 57.5}
+        - {x: 64, y: 57.5}
+        - {x: 64, y: 60.5}
+    - name: Camel Walk Sprite 01_59
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 257
+        width: 127.1
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: -27.5}
+        - {x: 21, y: -42.5}
+        - {x: 35, y: -35.5}
+        - {x: 35, y: 43.5}
+        - {x: -47, y: 43.5}
+        - {x: -52, y: 34.5}
+        - {x: -52, y: 11.5}
+        - {x: -48, y: 6.5}
+        - {x: -35, y: -38.5}
+        - {x: -31, y: -47.5}
+        - {x: -20, y: -47.5}
+        - {x: -15, y: -46.5}
+        - {x: -9, y: -47.5}
+        - {x: 7, y: -47.5}
+        - {x: 16, y: -41.5}
+        - {x: 15, y: -36.5}
+      - - {x: -64, y: 60.5}
+        - {x: -64, y: 57.5}
+        - {x: 64, y: 57.5}
+        - {x: 64, y: 60.5}
+    - name: Camel Walk Sprite 01_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 131
+        width: 127.1
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 46, y: -37.5}
+        - {x: 52, y: -34.5}
+        - {x: 52, y: 34.5}
+        - {x: 15, y: 48.5}
+        - {x: -45, y: 48.5}
+        - {x: -64, y: 44.5}
+        - {x: -64, y: 23.5}
+        - {x: -21, y: -37.5}
+        - {x: -10, y: -46.5}
+        - {x: 2, y: -40.5}
+        - {x: 0, y: -33.5}
+        - {x: 7, y: -49.5}
+        - {x: 10, y: -50.5}
+        - {x: 21, y: -50.5}
+        - {x: 28, y: -48.5}
+        - {x: 33, y: -24.5}
+        - {x: 35, y: -31.5}
+        - {x: 37, y: -36.5}
+      - - {x: -64, y: 60.5}
+        - {x: -64, y: 57.5}
+        - {x: 64, y: 57.5}
+        - {x: 64, y: 60.5}
+    - name: Camel Walk Sprite 01_61
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 131
+        width: 127.1
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 47.5}
+        - {x: -64, y: 0.5}
+        - {x: -27, y: -49.5}
+        - {x: 38, y: -49.5}
+        - {x: 54, y: -30.5}
+        - {x: 54, y: 11.5}
+        - {x: 31, y: 47.5}
+      - - {x: -64, y: 60.5}
+        - {x: -64, y: 57.5}
+        - {x: 64, y: 57.5}
+        - {x: 64, y: 60.5}
+    - name: Camel Walk Sprite 01_62
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 131
+        width: 127.1
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -61, y: 46.5}
+        - {x: -64, y: 45.5}
+        - {x: -64, y: 10.5}
+        - {x: -57, y: -49.5}
+        - {x: 54, y: -49.5}
+        - {x: 55, y: -44.5}
+        - {x: 55, y: 11.5}
+        - {x: 29, y: 46.5}
+      - - {x: -64, y: 60.5}
+        - {x: -64, y: 57.5}
+        - {x: 64, y: 57.5}
+        - {x: 64, y: 60.5}
+    - name: Camel Walk Sprite 01_63
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 131
+        width: 127.1
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: -40.5}
+        - {x: 10, y: -35.5}
+        - {x: 19, y: -50.5}
+        - {x: 48, y: -50.5}
+        - {x: 50, y: -17.5}
+        - {x: 50, y: 29.5}
+        - {x: 15, y: 44.5}
+        - {x: 12, y: 45.5}
+        - {x: -64, y: 45.5}
+        - {x: -64, y: -7.5}
+        - {x: -37, y: -50.5}
+        - {x: -18, y: -50.5}
+        - {x: -17, y: -47.5}
+        - {x: -11, y: -25.5}
+        - {x: -10, y: -20.5}
+        - {x: -10, y: -12.5}
+      - - {x: -64, y: 60.5}
+        - {x: -64, y: 57.5}
+        - {x: 64, y: 57.5}
+        - {x: 64, y: 60.5}
+    - name: Camel Walk Sprite 01_64
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 131
+        width: 127.1
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: -33.5}
+        - {x: -1, y: -33.5}
+        - {x: 10, y: -30.5}
+        - {x: 12, y: -31.5}
+        - {x: 27, y: -35.5}
+        - {x: 31, y: -29.5}
+        - {x: 32, y: -40.5}
+        - {x: 37, y: -50.5}
+        - {x: 48, y: -49.5}
+        - {x: 52, y: -48.5}
+        - {x: 52, y: 42.5}
+        - {x: 43, y: 45.5}
+        - {x: -59, y: 45.5}
+        - {x: -63, y: 41.5}
+        - {x: -64, y: 39.5}
+        - {x: -64, y: 23.5}
+        - {x: -27, y: -50.5}
+        - {x: -15, y: -50.5}
+        - {x: -12, y: -47.5}
+        - {x: -10, y: -33.5}
+        - {x: -10, y: -30.5}
+      - - {x: -64, y: 60.5}
+        - {x: -64, y: 57.5}
+        - {x: 64, y: 57.5}
+        - {x: 64, y: 60.5}
+    - name: Camel Walk Sprite 01_65
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 131
+        width: 127.1
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 45.5}
+        - {x: -64, y: 21.5}
+        - {x: -29, y: -50.5}
+        - {x: 54, y: -50.5}
+        - {x: 54, y: 43.5}
+        - {x: 35, y: 45.5}
+      - - {x: -64, y: 60.5}
+        - {x: -64, y: 57.5}
+        - {x: 64, y: 57.5}
+        - {x: 64, y: 60.5}
+    - name: Camel Walk Sprite 01_66
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 131
+        width: 127.1
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -56, y: 45.5}
+        - {x: -64, y: 41.5}
+        - {x: -64, y: 24.5}
+        - {x: -37, y: -47.5}
+        - {x: -21, y: -50.5}
+        - {x: 57, y: -50.5}
+        - {x: 57, y: 34.5}
+        - {x: 11, y: 45.5}
+      - - {x: -64, y: 60.5}
+        - {x: -64, y: 57.5}
+        - {x: 64, y: 57.5}
+        - {x: 64, y: 60.5}
+    - name: Camel Walk Sprite 01_67
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 131
+        width: 127.1
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 29, y: 44.5}
+        - {x: -53, y: 44.5}
+        - {x: -64, y: 40.5}
+        - {x: -64, y: -14.5}
+        - {x: -58, y: -40.5}
+        - {x: -43, y: -50.5}
+        - {x: 31, y: -50.5}
+        - {x: 40, y: -43.5}
+        - {x: 59, y: -17.5}
+        - {x: 59, y: -12.5}
+        - {x: 54, y: 33.5}
+      - - {x: -64, y: 60.5}
+        - {x: -64, y: 57.5}
+        - {x: 64, y: 57.5}
+        - {x: 64, y: 60.5}
+    - name: Camel Walk Sprite 01_68
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 131
+        width: 127.1
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21, y: 45.5}
+        - {x: -64, y: 45.5}
+        - {x: -64, y: -10.5}
+        - {x: -57, y: -48.5}
+        - {x: 43, y: -48.5}
+        - {x: 52, y: -42.5}
+        - {x: 52, y: 30.5}
+      - - {x: -64, y: 60.5}
+        - {x: -64, y: 57.5}
+        - {x: 64, y: 57.5}
+        - {x: 64, y: 60.5}
+    - name: Camel Walk Sprite 01_69
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 131
+        width: 127.1
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27, y: -45.5}
+        - {x: 49, y: -39.5}
+        - {x: 49, y: 33.5}
+        - {x: 13, y: 47.5}
+        - {x: -64, y: 47.5}
+        - {x: -64, y: -7.5}
+        - {x: -56, y: -46.5}
+        - {x: 6, y: -46.5}
+        - {x: 9, y: -34.5}
+        - {x: 15, y: -43.5}
+        - {x: 19, y: -45.5}
+      - - {x: -64, y: 60.5}
+        - {x: -64, y: 57.5}
+        - {x: 64, y: 57.5}
+        - {x: 64, y: 60.5}
+    - name: Camel Walk Sprite 01_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5
+        width: 127.1
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 39, y: -54.5}
+        - {x: 53, y: -54.5}
+        - {x: 53, y: -21.5}
+        - {x: 24, y: 55.5}
+        - {x: 3, y: 57.5}
+        - {x: -41, y: 57.5}
+        - {x: -43, y: 53.5}
+        - {x: -43, y: 40.5}
+        - {x: -17, y: -49.5}
+        - {x: -4, y: -36.5}
+        - {x: -4, y: -25.5}
+        - {x: -4, y: -32.5}
+        - {x: 0, y: -37.5}
+        - {x: -3, y: -46.5}
+        - {x: -3, y: -50.5}
+        - {x: 0, y: -54.5}
+        - {x: 7, y: -54.5}
+        - {x: 12, y: -53.5}
+        - {x: 14, y: -49.5}
+        - {x: 21, y: -30.5}
+        - {x: 34, y: -50.5}
+      - - {x: -64, y: 60.5}
+        - {x: -64, y: 57.5}
+        - {x: 64, y: 57.5}
+        - {x: 64, y: 60.5}
+    - name: Camel Walk Sprite 01_71
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 5
+        width: 127.1
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24, y: 56.5}
+        - {x: -42, y: 56.5}
+        - {x: -42, y: 25.5}
+        - {x: -33, y: -47.5}
+        - {x: -15, y: -55.5}
+        - {x: 48, y: -55.5}
+        - {x: 50, y: -54.5}
+        - {x: 50, y: 20.5}
+      - - {x: -64, y: 60.5}
+        - {x: -64, y: 57.5}
+        - {x: 64, y: 57.5}
+        - {x: 64, y: 60.5}
+    - name: Camel Walk Sprite 01_72
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 5
+        width: 127.1
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 39, y: -25.5}
+        - {x: 26, y: -36.5}
+        - {x: 24, y: -42.5}
+        - {x: 41, y: -49.5}
+        - {x: 50, y: -43.5}
+        - {x: 50, y: 17.5}
+        - {x: 14, y: 55.5}
+        - {x: -43, y: 55.5}
+        - {x: -43, y: -50.5}
+        - {x: -24, y: -57.5}
+        - {x: 18, y: -57.5}
+        - {x: 22, y: -53.5}
+        - {x: 21, y: -45.5}
+        - {x: 28, y: -33.5}
+        - {x: 28, y: -28.5}
+      - - {x: -64, y: 60.5}
+        - {x: -64, y: 57.5}
+        - {x: 64, y: 57.5}
+        - {x: 64, y: 60.5}
+    - name: Camel Walk Sprite 01_73
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 5
+        width: 127.1
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44, y: 54.5}
+        - {x: -44, y: 22.5}
+        - {x: -35, y: -34.5}
+        - {x: -29, y: -39.5}
+        - {x: -19, y: -44.5}
+        - {x: 8, y: -38.5}
+        - {x: 18, y: -35.5}
+        - {x: 16, y: -25.5}
+        - {x: 20, y: -31.5}
+        - {x: 16, y: -44.5}
+        - {x: 9, y: -49.5}
+        - {x: 6, y: -56.5}
+        - {x: 13, y: -58.5}
+        - {x: 26, y: -58.5}
+        - {x: 46, y: -40.5}
+        - {x: 46, y: 0.5}
+        - {x: 22, y: 54.5}
+      - - {x: -64, y: 60.5}
+        - {x: -64, y: 57.5}
+        - {x: 64, y: 57.5}
+        - {x: 64, y: 60.5}
+    - name: Camel Walk Sprite 01_74
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 5
+        width: 127.1
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 54.5}
+        - {x: -44, y: 54.5}
+        - {x: -44, y: 30.5}
+        - {x: -31, y: -33.5}
+        - {x: -26, y: -42.5}
+        - {x: -19, y: -41.5}
+        - {x: -13, y: -37.5}
+        - {x: -10, y: -20.5}
+        - {x: -2, y: -30.5}
+        - {x: 4, y: -34.5}
+        - {x: 17, y: -30.5}
+        - {x: 14, y: -20.5}
+        - {x: 19, y: -26.5}
+        - {x: 19, y: -39.5}
+        - {x: 13, y: -53.5}
+        - {x: 14, y: -58.5}
+        - {x: 15, y: -60.5}
+        - {x: 31, y: -60.5}
+        - {x: 34, y: -59.5}
+        - {x: 40, y: -43.5}
+        - {x: 40, y: 30.5}
+      - - {x: -64, y: 60.5}
+        - {x: -64, y: 57.5}
+        - {x: 64, y: 57.5}
+        - {x: 64, y: 60.5}
+    - name: Camel Walk Sprite 01_75
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 5
+        width: 127.1
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 42.5}
+        - {x: -10, y: 55.5}
+        - {x: -44, y: 55.5}
+        - {x: -44, y: -0.5}
+        - {x: -23, y: -58.5}
+        - {x: 11, y: -28.5}
+        - {x: 13, y: -23.5}
+        - {x: 13, y: -40.5}
+        - {x: 14, y: -60.5}
+        - {x: 39, y: -60.5}
+        - {x: 41, y: -44.5}
+        - {x: 41, y: 12.5}
+      - - {x: 36, y: -28.5}
+        - {x: 38, y: -30.5}
+        - {x: 41, y: -29.5}
+        - {x: 41, y: -12.5}
+        - {x: 39, y: -10.5}
+        - {x: 36, y: -11.5}
+      - - {x: -64, y: 60.5}
+        - {x: -64, y: 57.5}
+        - {x: 64, y: 57.5}
+        - {x: 64, y: 60.5}
+    - name: Camel Walk Sprite 01_76
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 5
+        width: 127.1
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 38.5}
+        - {x: 2, y: 37.5}
+        - {x: -4, y: 35.5}
+        - {x: -19, y: 55.5}
+        - {x: -43, y: 55.5}
+        - {x: -44, y: 51.5}
+        - {x: -44, y: 43.5}
+        - {x: -32, y: 24.5}
+        - {x: -24, y: -44.5}
+        - {x: -7, y: -52.5}
+        - {x: 10, y: -58.5}
+        - {x: 37, y: -58.5}
+        - {x: 41, y: -43.5}
+        - {x: 41, y: 11.5}
+        - {x: 39, y: 16.5}
+      - - {x: 36, y: -28.5}
+        - {x: 38, y: -30.5}
+        - {x: 41, y: -29.5}
+        - {x: 41, y: -12.5}
+        - {x: 39, y: -10.5}
+        - {x: 36, y: -11.5}
+      - - {x: -64, y: 60.5}
+        - {x: -64, y: 57.5}
+        - {x: 64, y: 57.5}
+        - {x: 64, y: 60.5}
+    - name: Camel Walk Sprite 01_77
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 5
+        width: 127.1
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42, y: 53.5}
+        - {x: -44, y: 50.5}
+        - {x: -44, y: 35.5}
+        - {x: -20, y: -45.5}
+        - {x: -8, y: -49.5}
+        - {x: -3, y: -49.5}
+        - {x: 1, y: -44.5}
+        - {x: 8, y: -49.5}
+        - {x: 38, y: -49.5}
+        - {x: 44, y: -33.5}
+        - {x: 44, y: 15.5}
+        - {x: 4, y: 53.5}
+      - - {x: -64, y: 60.5}
+        - {x: -64, y: 57.5}
+        - {x: 64, y: 57.5}
+        - {x: 64, y: 60.5}
+    - name: Camel Walk Sprite 01_78
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 5
+        width: 127.1
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: 37.5}
+        - {x: 3, y: 38.5}
+        - {x: -16, y: 54.5}
+        - {x: -41, y: 54.5}
+        - {x: -44, y: 49.5}
+        - {x: -44, y: 37.5}
+        - {x: -12, y: -48.5}
+        - {x: -4, y: -45.5}
+        - {x: -1, y: -44.5}
+        - {x: 2, y: -40.5}
+        - {x: 3, y: -36.5}
+        - {x: 4, y: -26.5}
+        - {x: 5, y: -35.5}
+        - {x: 2, y: -42.5}
+        - {x: 7, y: -47.5}
+        - {x: 17, y: -49.5}
+        - {x: 43, y: -49.5}
+        - {x: 43, y: 3.5}
+        - {x: 37, y: 14.5}
+      - - {x: -64, y: 60.5}
+        - {x: -64, y: 57.5}
+        - {x: 64, y: 57.5}
+        - {x: 64, y: 60.5}
+    - name: Camel Walk Sprite 01_79
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 5
+        width: 127.1
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43, y: 56.5}
+        - {x: -43, y: 37.5}
+        - {x: -15, y: -40.5}
+        - {x: -6, y: -44.5}
+        - {x: 7, y: -27.5}
+        - {x: -3, y: -42.5}
+        - {x: -1, y: -52.5}
+        - {x: 48, y: -52.5}
+        - {x: 48, y: 4.5}
+        - {x: 23, y: 54.5}
+        - {x: 8, y: 56.5}
+      - - {x: -64, y: 60.5}
+        - {x: -64, y: 57.5}
+        - {x: 64, y: 57.5}
+        - {x: 64, y: 60.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1368 @@
+fileFormatVersion: 2
+guid: 986e27fec084883459d1b8890724f427
+timeCreated: 1478606410
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Walk Spritesheet_0
+    21300002: Walk Spritesheet_1
+    21300004: Walk Spritesheet_2
+    21300006: Walk Spritesheet_3
+    21300008: Walk Spritesheet_4
+    21300010: Walk Spritesheet_5
+    21300012: Walk Spritesheet_6
+    21300014: Walk Spritesheet_7
+    21300016: Walk Spritesheet_8
+    21300018: Walk Spritesheet_9
+    21300020: Walk Spritesheet_10
+    21300022: Walk Spritesheet_11
+    21300024: Walk Spritesheet_12
+    21300026: Walk Spritesheet_13
+    21300028: Walk Spritesheet_14
+    21300030: Walk Spritesheet_15
+    21300032: Walk Spritesheet_16
+    21300034: Walk Spritesheet_17
+    21300036: Walk Spritesheet_18
+    21300038: Walk Spritesheet_19
+    21300040: Walk Spritesheet_20
+    21300042: Walk Spritesheet_21
+    21300044: Walk Spritesheet_22
+    21300046: Walk Spritesheet_23
+    21300048: Walk Spritesheet_24
+    21300050: Walk Spritesheet_25
+    21300052: Walk Spritesheet_26
+    21300054: Walk Spritesheet_27
+    21300056: Walk Spritesheet_28
+    21300058: Walk Spritesheet_29
+    21300060: Walk Spritesheet_30
+    21300062: Walk Spritesheet_31
+    21300064: Walk Spritesheet_32
+    21300066: Walk Spritesheet_33
+    21300068: Walk Spritesheet_34
+    21300070: Walk Spritesheet_35
+    21300072: Walk Spritesheet_36
+    21300074: Walk Spritesheet_37
+    21300076: Walk Spritesheet_38
+    21300078: Walk Spritesheet_39
+    21300080: Walk Spritesheet_40
+    21300082: Walk Spritesheet_41
+    21300084: Walk Spritesheet_42
+    21300086: Walk Spritesheet_43
+    21300088: Walk Spritesheet_44
+    21300090: Walk Spritesheet_45
+    21300092: Walk Spritesheet_46
+    21300094: Walk Spritesheet_47
+    21300096: Walk Spritesheet_48
+    21300098: Walk Spritesheet_49
+    21300100: Walk Spritesheet_50
+    21300102: Walk Spritesheet_51
+    21300104: Walk Spritesheet_52
+    21300106: Walk Spritesheet_53
+    21300108: Walk Spritesheet_54
+    21300110: Walk Spritesheet_55
+    21300112: Walk Spritesheet_56
+    21300114: Walk Spritesheet_57
+    21300116: Walk Spritesheet_58
+    21300118: Walk Spritesheet_59
+    21300120: Walk Spritesheet_60
+    21300122: Walk Spritesheet_61
+    21300124: Walk Spritesheet_62
+    21300126: Walk Spritesheet_63
+    21300128: Walk Spritesheet_64
+    21300130: Walk Spritesheet_65
+    21300132: Walk Spritesheet_66
+    21300134: Walk Spritesheet_67
+    21300136: Walk Spritesheet_68
+    21300138: Walk Spritesheet_69
+    21300140: Walk Spritesheet_70
+    21300142: Walk Spritesheet_71
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Walk Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 650
+        width: 39
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2.5, y: 37.5}
+        - {x: -17.5, y: 37.5}
+        - {x: -19.5, y: 32.5}
+        - {x: -19.5, y: -37.5}
+        - {x: 19.5, y: -37.5}
+        - {x: 19.5, y: 23.5}
+        - {x: 18.5, y: 26.5}
+    - name: Walk Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 650
+        width: 39
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 37.5}
+        - {x: -19.5, y: 24.5}
+        - {x: -19.5, y: -25.5}
+        - {x: -15.5, y: -37.5}
+        - {x: 19.5, y: -37.5}
+        - {x: 19.5, y: -17.5}
+        - {x: 8.5, y: 37.5}
+    - name: Walk Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 646
+        width: 37
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: 39.5}
+        - {x: -18.5, y: 27.5}
+        - {x: -18.5, y: -35.5}
+        - {x: -17.5, y: -39.5}
+        - {x: 18.5, y: -39.5}
+        - {x: 18.5, y: 15.5}
+        - {x: 7.5, y: 39.5}
+    - name: Walk Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 645
+        width: 37
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2.5, y: 39.5}
+        - {x: -12.5, y: 39.5}
+        - {x: -18.5, y: 32.5}
+        - {x: -18.5, y: -39.5}
+        - {x: 10.5, y: -39.5}
+        - {x: 17.5, y: -37.5}
+        - {x: 18.5, y: -37.5}
+        - {x: 18.5, y: -9.5}
+        - {x: 12.5, y: 22.5}
+    - name: Walk Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 649
+        width: 38
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 38}
+        - {x: -15, y: 38}
+        - {x: -19, y: 33}
+        - {x: -19, y: -38}
+        - {x: 14, y: -38}
+        - {x: 19, y: -37}
+        - {x: 19, y: -15}
+        - {x: 16, y: 1}
+    - name: Walk Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 650
+        width: 38
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 37.5}
+        - {x: -16, y: 37.5}
+        - {x: -19, y: 23.5}
+        - {x: -19, y: -23.5}
+        - {x: -14, y: -37.5}
+        - {x: 19, y: -37.5}
+        - {x: 19, y: -10.5}
+        - {x: 13, y: 21.5}
+    - name: Walk Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 646
+        width: 39
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: 39}
+        - {x: -19.5, y: 34}
+        - {x: -19.5, y: -16}
+        - {x: -12.5, y: -38}
+        - {x: -6.5, y: -39}
+        - {x: 8.5, y: -39}
+        - {x: 19.5, y: -36}
+        - {x: 19.5, y: 11}
+        - {x: 13.5, y: 39}
+    - name: Walk Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 645
+        width: 39
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: -28.5}
+        - {x: -12.5, y: -39.5}
+        - {x: 14.5, y: -39.5}
+        - {x: 19.5, y: -34.5}
+        - {x: 19.5, y: -16.5}
+        - {x: 10.5, y: 39.5}
+        - {x: -14.5, y: 39.5}
+        - {x: -19.5, y: 29.5}
+    - name: Walk Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 649
+        width: 38
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: 15}
+        - {x: 5, y: 38}
+        - {x: -13, y: 38}
+        - {x: -19, y: 23}
+        - {x: -19, y: -19}
+        - {x: -16, y: -38}
+        - {x: 12, y: -38}
+        - {x: 19, y: -35}
+        - {x: 19, y: -25}
+        - {x: 18, y: -24}
+    - name: Walk Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 558
+        width: 36
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 38}
+        - {x: -18, y: -38}
+        - {x: 18, y: -38}
+        - {x: 18, y: 7}
+        - {x: 8, y: 38}
+    - name: Walk Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 559
+        width: 33
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: 38}
+        - {x: -16.5, y: 29}
+        - {x: -16.5, y: -38}
+        - {x: 16.5, y: -38}
+        - {x: 16.5, y: 10}
+        - {x: 14.5, y: 23}
+        - {x: 3.5, y: 38}
+    - name: Walk Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 558
+        width: 37
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4.5, y: 38}
+        - {x: -13.5, y: 38}
+        - {x: -18.5, y: -4}
+        - {x: -18.5, y: -38}
+        - {x: 16.5, y: -38}
+        - {x: 18.5, y: -37}
+        - {x: 18.5, y: -15}
+        - {x: 10.5, y: 21}
+    - name: Walk Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 557
+        width: 38
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 38.5}
+        - {x: -19, y: 2.5}
+        - {x: -19, y: -38.5}
+        - {x: 15, y: -38.5}
+        - {x: 19, y: -35.5}
+        - {x: 19, y: -19.5}
+        - {x: 7, y: 38.5}
+    - name: Walk Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 559
+        width: 34
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 38}
+        - {x: -17, y: -38}
+        - {x: 16, y: -38}
+        - {x: 17, y: -37}
+        - {x: 17, y: -2}
+        - {x: 5, y: 38}
+    - name: Walk Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 557
+        width: 37
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.5, y: 21.5}
+        - {x: 2.5, y: 38.5}
+        - {x: -11.5, y: 38.5}
+        - {x: -18.5, y: 19.5}
+        - {x: -18.5, y: -27.5}
+        - {x: -17.5, y: -38.5}
+        - {x: 18.5, y: -38.5}
+        - {x: 18.5, y: -24.5}
+        - {x: 15.5, y: -22.5}
+    - name: Walk Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 555
+        width: 40
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: -25.5}
+        - {x: -18, y: -39.5}
+        - {x: 20, y: -39.5}
+        - {x: 20, y: 35.5}
+        - {x: 19, y: 39.5}
+        - {x: -11, y: 39.5}
+        - {x: -20, y: 19.5}
+    - name: Walk Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 554
+        width: 40
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 39.5}
+        - {x: -20, y: 19.5}
+        - {x: -20, y: -0.5}
+        - {x: -16, y: 1.5}
+        - {x: -14, y: 3.5}
+        - {x: -17, y: -34.5}
+        - {x: -14, y: -39.5}
+        - {x: 11, y: -39.5}
+        - {x: 20, y: -38.5}
+        - {x: 20, y: 19.5}
+        - {x: 6, y: 39.5}
+    - name: Walk Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 557
+        width: 37
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.5, y: 38.5}
+        - {x: -16.5, y: 27.5}
+        - {x: -18.5, y: 15.5}
+        - {x: -18.5, y: -5.5}
+        - {x: -12.5, y: -29.5}
+        - {x: -9.5, y: -38.5}
+        - {x: 15.5, y: -38.5}
+        - {x: 18.5, y: -34.5}
+        - {x: 18.5, y: -14.5}
+        - {x: 6.5, y: 38.5}
+    - name: Walk Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 465
+        width: 28
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Walk Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 465
+        width: 30
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Walk Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 465
+        width: 35
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: 37.5}
+        - {x: -16.5, y: 16.5}
+        - {x: -17.5, y: 9.5}
+        - {x: -17.5, y: -37.5}
+        - {x: 17.5, y: -37.5}
+        - {x: 17.5, y: -7.5}
+        - {x: 6.5, y: 37.5}
+    - name: Walk Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 465
+        width: 39
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.5, y: 37.5}
+        - {x: -18.5, y: 0.5}
+        - {x: -19.5, y: -8.5}
+        - {x: -19.5, y: -34.5}
+        - {x: -12.5, y: -37.5}
+        - {x: 19.5, y: -37.5}
+        - {x: 19.5, y: 0.5}
+        - {x: 14.5, y: 35.5}
+        - {x: 11.5, y: 37.5}
+    - name: Walk Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 465
+        width: 30
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Walk Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 465
+        width: 31
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Walk Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 465
+        width: 36
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 37.5}
+        - {x: -11, y: 37.5}
+        - {x: -18, y: 12.5}
+        - {x: -18, y: -37.5}
+        - {x: 17, y: -37.5}
+        - {x: 18, y: -36.5}
+        - {x: 18, y: -6.5}
+        - {x: 9, y: 27.5}
+    - name: Walk Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 465
+        width: 39
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.5, y: 37}
+        - {x: -13.5, y: 37}
+        - {x: -19.5, y: 2}
+        - {x: -19.5, y: -37}
+        - {x: 17.5, y: -37}
+        - {x: 19.5, y: -36}
+        - {x: 19.5, y: 30}
+    - name: Walk Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 465
+        width: 30
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Walk Spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 373
+        width: 36
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 37}
+        - {x: -18, y: -37}
+        - {x: 10, y: -37}
+        - {x: 18, y: -33}
+        - {x: 18, y: 8}
+        - {x: 7, y: 37}
+    - name: Walk Spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 372
+        width: 37
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3.5, y: 38}
+        - {x: -11.5, y: 38}
+        - {x: -18.5, y: 19}
+        - {x: -18.5, y: -19}
+        - {x: -14.5, y: -37}
+        - {x: -12.5, y: -38}
+        - {x: 12.5, y: -38}
+        - {x: 18.5, y: -36}
+        - {x: 18.5, y: 12}
+        - {x: 15.5, y: 27}
+    - name: Walk Spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 370
+        width: 39
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 38.5}
+        - {x: -19.5, y: -25.5}
+        - {x: -12.5, y: -38.5}
+        - {x: 11.5, y: -38.5}
+        - {x: 19.5, y: -32.5}
+        - {x: 19.5, y: 24.5}
+        - {x: 9.5, y: 38.5}
+    - name: Walk Spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 369
+        width: 41
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: 15}
+        - {x: -20.5, y: -28}
+        - {x: -14.5, y: -39}
+        - {x: 11.5, y: -39}
+        - {x: 20.5, y: -34}
+        - {x: 20.5, y: -11}
+        - {x: 8.5, y: 39}
+        - {x: -7.5, y: 39}
+        - {x: -10.5, y: 35}
+    - name: Walk Spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 372
+        width: 36
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 24}
+        - {x: 4, y: 38}
+        - {x: -12, y: 38}
+        - {x: -14, y: 37}
+        - {x: -18, y: 17}
+        - {x: -18, y: -17}
+        - {x: -13, y: -35}
+        - {x: -12, y: -38}
+        - {x: 8, y: -38}
+        - {x: 18, y: -31}
+        - {x: 18, y: -23}
+        - {x: 10, y: -22}
+    - name: Walk Spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 373
+        width: 33
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1.5, y: 37.5}
+        - {x: -13.5, y: 37.5}
+        - {x: -16.5, y: 25.5}
+        - {x: -16.5, y: -37.5}
+        - {x: 16.5, y: -37.5}
+        - {x: 16.5, y: -5.5}
+        - {x: 8.5, y: 24.5}
+    - name: Walk Spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 372
+        width: 37
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: 37.5}
+        - {x: -18.5, y: 11.5}
+        - {x: -18.5, y: -37.5}
+        - {x: 18.5, y: -37.5}
+        - {x: 18.5, y: 9.5}
+        - {x: 14.5, y: 27.5}
+        - {x: 3.5, y: 37.5}
+    - name: Walk Spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 372
+        width: 39
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.5, y: 37.5}
+        - {x: -19.5, y: 0.5}
+        - {x: -19.5, y: -35.5}
+        - {x: -18.5, y: -37.5}
+        - {x: 19.5, y: -37.5}
+        - {x: 19.5, y: -9.5}
+        - {x: 6.5, y: 37.5}
+    - name: Walk Spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 374
+        width: 34
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 37}
+        - {x: -17, y: -37}
+        - {x: 17, y: -37}
+        - {x: 17, y: -6}
+        - {x: 5, y: 37}
+    - name: Walk Spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 283
+        width: 39
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 36}
+        - {x: -19.5, y: 35}
+        - {x: -19.5, y: -36}
+        - {x: 13.5, y: -36}
+        - {x: 19.5, y: -34}
+        - {x: 19.5, y: 36}
+    - name: Walk Spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 281
+        width: 38
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: 37.5}
+        - {x: -11, y: 37.5}
+        - {x: -18, y: 26.5}
+        - {x: -19, y: 25.5}
+        - {x: -19, y: -36.5}
+        - {x: -17, y: -37.5}
+        - {x: 18, y: -37.5}
+        - {x: 19, y: -35.5}
+        - {x: 19, y: -8.5}
+        - {x: 11, y: 21.5}
+    - name: Walk Spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 279
+        width: 37
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: 38}
+        - {x: -18.5, y: 31}
+        - {x: -18.5, y: -38}
+        - {x: 11.5, y: -38}
+        - {x: 16.5, y: -37}
+        - {x: 18.5, y: -34}
+        - {x: 18.5, y: 3}
+        - {x: 9.5, y: 38}
+    - name: Walk Spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 277
+        width: 36
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 39}
+        - {x: -18, y: 29}
+        - {x: -18, y: -20}
+        - {x: -16, y: -38}
+        - {x: -15, y: -39}
+        - {x: 18, y: -39}
+        - {x: 18, y: 31}
+        - {x: 6, y: 39}
+    - name: Walk Spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 281
+        width: 39
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4.5, y: 37.5}
+        - {x: -12.5, y: 37.5}
+        - {x: -18.5, y: 22.5}
+        - {x: -19.5, y: 15.5}
+        - {x: -19.5, y: -11.5}
+        - {x: -15.5, y: -37.5}
+        - {x: 19.5, y: -37.5}
+        - {x: 19.5, y: 18.5}
+        - {x: 18.5, y: 24.5}
+    - name: Walk Spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 281
+        width: 39
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.5, y: 37.5}
+        - {x: -19.5, y: 23.5}
+        - {x: -19.5, y: -37.5}
+        - {x: 19.5, y: -37.5}
+        - {x: 19.5, y: 23.5}
+        - {x: 5.5, y: 37.5}
+    - name: Walk Spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 279
+        width: 38
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: -23.5}
+        - {x: -14, y: -33.5}
+        - {x: -9, y: -38.5}
+        - {x: 8, y: -38.5}
+        - {x: 19, y: -33.5}
+        - {x: 19, y: -7.5}
+        - {x: 10, y: 38.5}
+        - {x: -16, y: 38.5}
+        - {x: -19, y: 25.5}
+    - name: Walk Spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 277
+        width: 38
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: -24}
+        - {x: -18, y: -33}
+        - {x: -12, y: -39}
+        - {x: 9, y: -39}
+        - {x: 19, y: -34}
+        - {x: 19, y: 0}
+        - {x: 11, y: 39}
+        - {x: -15, y: 39}
+        - {x: -19, y: 33}
+    - name: Walk Spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 280
+        width: 38
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 38}
+        - {x: -19, y: 26}
+        - {x: -19, y: -34}
+        - {x: -11, y: -38}
+        - {x: 15, y: -38}
+        - {x: 19, y: -34}
+        - {x: 19, y: 6}
+        - {x: 9, y: 38}
+    - name: Walk Spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 192
+        width: 33
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: -15}
+        - {x: -14.5, y: -37}
+        - {x: 16.5, y: -37}
+        - {x: 16.5, y: 8}
+        - {x: 11.5, y: 37}
+        - {x: -12.5, y: 37}
+        - {x: -16.5, y: 31}
+    - name: Walk Spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 192
+        width: 31
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Walk Spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 192
+        width: 33
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4.5, y: 37}
+        - {x: -12.5, y: 37}
+        - {x: -16.5, y: 25}
+        - {x: -16.5, y: -37}
+        - {x: 16.5, y: -37}
+        - {x: 16.5, y: -10}
+        - {x: 5.5, y: 36}
+    - name: Walk Spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 191
+        width: 35
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5, y: 37}
+        - {x: -17.5, y: 18}
+        - {x: -17.5, y: -37}
+        - {x: 17.5, y: -37}
+        - {x: 17.5, y: 28}
+        - {x: 6.5, y: 37}
+    - name: Walk Spritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 192
+        width: 31
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Walk Spritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 191
+        width: 34
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 37.5}
+        - {x: -17, y: -37.5}
+        - {x: 17, y: -37.5}
+        - {x: 17, y: -16.5}
+        - {x: 3, y: 37.5}
+    - name: Walk Spritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 189
+        width: 39
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 38.5}
+        - {x: -19.5, y: -38.5}
+        - {x: 9.5, y: -38.5}
+        - {x: 17.5, y: -37.5}
+        - {x: 19.5, y: -34.5}
+        - {x: 19.5, y: -8.5}
+        - {x: 4.5, y: 38.5}
+    - name: Walk Spritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 188
+        width: 40
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: -26.5}
+        - {x: -17, y: -36.5}
+        - {x: -15, y: -38.5}
+        - {x: 20, y: -38.5}
+        - {x: 20, y: 9.5}
+        - {x: 15, y: 38.5}
+        - {x: -15, y: 38.5}
+        - {x: -20, y: 24.5}
+    - name: Walk Spritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 190
+        width: 34
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 38}
+        - {x: -17, y: 32}
+        - {x: -17, y: -38}
+        - {x: 17, y: -38}
+        - {x: 17, y: -21}
+        - {x: 6, y: 38}
+    - name: Walk Spritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 96
+        width: 26
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Walk Spritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 97
+        width: 28
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Walk Spritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 97
+        width: 34
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 37.5}
+        - {x: -17, y: 16.5}
+        - {x: -17, y: -37.5}
+        - {x: 17, y: -37.5}
+        - {x: 17, y: 19.5}
+        - {x: 5, y: 37.5}
+    - name: Walk Spritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 97
+        width: 39
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.5, y: 37}
+        - {x: -19.5, y: 7}
+        - {x: -19.5, y: -37}
+        - {x: 19.5, y: -37}
+        - {x: 19.5, y: 25}
+        - {x: 5.5, y: 37}
+    - name: Walk Spritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 97
+        width: 28
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Walk Spritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 97
+        width: 27
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Walk Spritesheet_60
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 96
+        width: 32
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -38}
+        - {x: 16, y: -38}
+        - {x: 16, y: 11}
+        - {x: 13, y: 38}
+        - {x: -10, y: 38}
+        - {x: -16, y: 16}
+    - name: Walk Spritesheet_61
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 96
+        width: 36
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 37.5}
+        - {x: -18, y: 28.5}
+        - {x: -18, y: -37.5}
+        - {x: 18, y: -37.5}
+        - {x: 18, y: -12.5}
+        - {x: 9, y: 37.5}
+    - name: Walk Spritesheet_62
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 97
+        width: 29
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Walk Spritesheet_63
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 2
+        width: 32
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 4.5}
+        - {x: 4, y: 38.5}
+        - {x: -13, y: 38.5}
+        - {x: -16, y: 31.5}
+        - {x: -16, y: -35.5}
+        - {x: -11, y: -38.5}
+        - {x: 4, y: -38.5}
+        - {x: 16, y: -31.5}
+        - {x: 16, y: -21.5}
+        - {x: 9, y: -18.5}
+    - name: Walk Spritesheet_64
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 3
+        width: 35
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 38}
+        - {x: -17.5, y: -38}
+        - {x: 17.5, y: -38}
+        - {x: 17.5, y: 4}
+        - {x: 10.5, y: 38}
+    - name: Walk Spritesheet_65
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 0
+        width: 38
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 39.5}
+        - {x: -19, y: 31.5}
+        - {x: -19, y: -25.5}
+        - {x: -12, y: -39.5}
+        - {x: 6, y: -39.5}
+        - {x: 19, y: -33.5}
+        - {x: 19, y: -16.5}
+        - {x: 10, y: 39.5}
+    - name: Walk Spritesheet_66
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 0
+        width: 39
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 39}
+        - {x: -19.5, y: -37}
+        - {x: -9.5, y: -39}
+        - {x: 15.5, y: -39}
+        - {x: 19.5, y: -35}
+        - {x: 19.5, y: 10}
+        - {x: 6.5, y: 39}
+    - name: Walk Spritesheet_67
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 2
+        width: 34
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 8.5}
+        - {x: 1, y: 38.5}
+        - {x: -17, y: 38.5}
+        - {x: -17, y: -38.5}
+        - {x: 2, y: -38.5}
+        - {x: 17, y: -31.5}
+        - {x: 17, y: -24.5}
+        - {x: 14, y: -21.5}
+    - name: Walk Spritesheet_68
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 3
+        width: 30
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Walk Spritesheet_69
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 3
+        width: 33
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.5, y: 38}
+        - {x: -13.5, y: 37}
+        - {x: -16.5, y: 14}
+        - {x: -16.5, y: -37}
+        - {x: -13.5, y: -38}
+        - {x: 16.5, y: -38}
+        - {x: 16.5, y: 12}
+        - {x: 12.5, y: 38}
+    - name: Walk Spritesheet_70
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 2
+        width: 36
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 38}
+        - {x: -18, y: 9}
+        - {x: -18, y: -36}
+        - {x: -9, y: -38}
+        - {x: 18, y: -38}
+        - {x: 18, y: 1}
+        - {x: 7, y: 38}
+    - name: Walk Spritesheet_71
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 4
+        width: 32
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 37.5}
+        - {x: -16, y: 26.5}
+        - {x: -16, y: -35.5}
+        - {x: -15, y: -37.5}
+        - {x: 16, y: -37.5}
+        - {x: 16, y: 36.5}
+        - {x: 13, y: 37.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
